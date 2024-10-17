@@ -57,34 +57,32 @@ This task needs a Ubuntu workstation.
 ## Focused AI/ML Development 
 Focussed development using the Multimedia and AI SDKs of the Qualcomm Linux platform.
 
-### Task 4: Compile and optimize an AI model.
-#### Introduction to AI Capabilities  
-
-- [Overview of AI processing features on the RB3 Gen2]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-15/overview.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f&facet=Artificial%20Intelligence)  
-- [Exploration of the AI sample applications](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-50/ai-ml-sample-applications.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)  
-
-#### Reference: 
-- [Set up the development environment for AI applications or models](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-15B/offering.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f)  
-- Download one of the supported models, convert and quantlize it using SNPE and AIHUB and run it using sample application.
+### Task 4: Compile and optimize an AI model using SNPE
+Download InceptionV3 or any other model, Convert and quantize the model using SNPE to DLC  and run using sample app
+  
+#### References
+- [Overview of AI Developer workflow]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-15B/aiml-developer-workflow.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f)  
+- [Exploration of the AI sample applications](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-50/ai-ml-sample-applications.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
 
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
 
 ### Task 5: Develop new Face Detection application.
-The goal is to use an existing model (provided by Qualcomm)  and write or modify an existing application to run face detection.
+The goal is to use an existing face detection model (provided by Qualcomm) and write or modify an existing application to run face detection.
 
-#### Hands on Development  
-- [Set up the development environment for AI applications or models](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-15B/offering.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f)  
+#### References
+- [Overview of AI Developer workflow]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-15B/aiml-developer-workflow.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f)
+- [Object detection Sample app](https://git.codelinaro.org/clo/le/platform/vendor/qcom-opensource/gst-plugins-qti-oss/-/blob/imsdk.lnx.2.0.0.r2-rel/gst-sample-apps/gst-ai-object-detection/main.c?ref_type=heads)
 
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
 
-### Task 6:  Integrate Custom Model in an Application  -  Implement Post-Processing Support for YOLOv8/ v9 Model  
-The goal is to use an existing model (provided by Qualcomm)  and write or modify an existing application to run face detection.
-Qualcomm will provide the official repository link for the YOLOv8/v9 model.
+### Task 6:  Integrate Custom Model in an Application
+The goal is to use an existing model each from AI hub for segmentation/detection/classification/Super resolution and run the relevant app with new model.
+Try to get Opensource latest Object detection model and use AI hub ‘Bring your own model’ to convert/optimize same for Qualcomm SoC’s. Integrate to application and run, like in above step 
 
-#### Hands on Development  
-- [Set up the development environment for AI applications or models](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-15B/offering.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f)  
+#### References
+- [Overview of AI Developer workflow]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-15B/aiml-developer-workflow.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f)
 
 #### Testing and Feedback  
 
