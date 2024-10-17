@@ -1,6 +1,6 @@
 # Hyderabad / IOT Workshop
 ## Developing Applications on the Qualcomm Linux Platform 
-A single day workshop for developers to build multimedia and AI applications .The exercise's overall goal is to capture feedback to enhance the development experience and build out the RB3 Gen2 library of sample applications.   
+A single day workshop for developers to build multimedia and AI applications .The goal is to create sample AI/ML or Multimedia applications using Qualcomm Linux platfom and capture feedback on development experience.
 
 ## Scope 
 ### Overview 
@@ -8,10 +8,11 @@ A single day workshop for developers to build multimedia and AI applications .Th
 
 - Work on the task that is assigned to you by Nitin. Please provide feedback as you navigate Qualcomm documentation in the excel sheet provided to you by Nitin.
 
-- Set up your Laptop/Host Machine following the steps mentioned [here](TBD) (scroll down to ‘Host machine requirements'). You will set up either a virtual host on your existing OS or an Ubuntu 22.04 host on baremetal. You will also need an external monitor and an HDMI cable for the sample applications.  
-
--  When you run into issues, search through the [CE Forums](https://mysupport.qualcomm.com/supportforums/s/) so that engineering may address them directly. It is vitally important that when you run into an issue, you search FIRST as the issue and workaround may already be posted by someone else. For real-time chat, discussions, and asynchronous communication, please visit the [Qualcomm Developers Discord Server](https://discord.gg/qualcommdevelopernetwork). This platform facilitates interaction among the community.
-
+- Laptop setup:
+- If using Windows Laptop follow instructions [here](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-253/set_up_the_device.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f#panel-0-0-1).
+- If using Ubuntu Laptop, following instructions [here](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-253/set_up_the_device.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f#set-up-the-ubuntu-host)
+- If using a Mac , follow steps [here](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-253/set_up_the_device.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f#panel-0-0-2)
+  
 -  Update the Feedback Forum as you follow your workflow.Write down the any time you are lost, confused, or frustrated and, if applicable, how you resolved it.
 
 ## Introduction and Setup (Time  : ~1 hr )
