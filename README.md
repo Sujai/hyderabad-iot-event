@@ -55,10 +55,10 @@ This task needs a Ubuntu workstation.
 - Test the application on the IQ9 Beta Development Kit.
 
 ## Focused AI/ML Development 
-Focussed development using the Multimedia and AI SDKs of the Qualcomm Linux platform.
+Dedicated development utilizing the Multimedia and AI SDKs on the Qualcomm Linux platform
 
 ### Task 4: Compile and optimize an AI model using SNPE
-Download InceptionV3 or any other model, Convert and quantize the model using SNPE to DLC  and run using sample app
+- Download InceptionV3 or any other latest model, Convert and quantize the model using Qualcomm Neural Processing SDK to DLC and run the model using IMSDK based sample app
   
 #### References
 - [Overview of AI Developer workflow]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-15B/aiml-developer-workflow.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f)  
@@ -67,8 +67,8 @@ Download InceptionV3 or any other model, Convert and quantize the model using SN
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
 
-### Task 5: Develop new Face Detection application.
-The goal is to use an existing face detection model (provided by Qualcomm) and write or modify an existing application to run face detection.
+### Task 5: Develop Face Detection application
+- The goal is to use an face detection model (provided by Qualcomm) and write or modify an existing application to run face detection on camera stream.
 
 #### References
 - [Overview of AI Developer workflow]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-15B/aiml-developer-workflow.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f)
@@ -78,8 +78,8 @@ The goal is to use an existing face detection model (provided by Qualcomm) and w
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
 
 ### Task 6:  Integrate Custom Model in an Application
-The goal is to use an existing model each from AI hub for segmentation/detection/classification/Super resolution and run the relevant app with new model.
-Try to get Opensource latest Object detection model and use AI hub ‘Bring your own model’ to convert/optimize same for Qualcomm SoC’s. Integrate to application and run, like in above step 
+- The objective is to utilize existing models from the AI Hub for segmentation, detection, classification, and super resolution, and to execute the corresponding applications with these models.
+- Try to get the latest open-source object detection model and utilize the AI Hub ‘Bring Your Own Model’ feature to convert and optimize it for Qualcomm SoCs. Integrate the optimized model into the application and execute it, as described in the previous step
 
 #### References
 - [Overview of AI Developer workflow]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-15B/aiml-developer-workflow.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f)
