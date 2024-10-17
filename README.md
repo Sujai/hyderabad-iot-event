@@ -7,15 +7,10 @@ A single day workshop for developers to build multimedia and AI applications .Th
 - If you have not done so, [set up your Qualcomm ID](https://myaccount.qualcomm.com/signup), confirm your email, then [sign the PKLA](https://qualcomm.com/agreements) using your Qualcomm ID.  This gives you access to the documentation. 
 
 - Work on the task that is assigned to you by Nitin. Please provide feedback as you navigate Qualcomm documentation in the excel sheet provided to you by Nitin.
-
-- Laptop setup:
-- If using Windows Laptop follow instructions [here](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-253/set_up_the_device.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f#panel-0-0-1).
-- If using Ubuntu Laptop, following instructions [here](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-253/set_up_the_device.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f#set-up-the-ubuntu-host)
-- If using a Mac , follow steps [here](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-253/set_up_the_device.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f#panel-0-0-2)
   
 -  Update the Feedback Forum as you follow your workflow.Write down the any time you are lost, confused, or frustrated and, if applicable, how you resolved it.
 
-## Introduction and Setup (Time  : ~1 hr )
+## Introduction and Setup 
 ### Introduction  
 - [Overview of the RB3 Gen2 Development Kit and its components]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-115/dev-kits.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f)  
 
@@ -23,9 +18,13 @@ A single day workshop for developers to build multimedia and AI applications .Th
 - [Detailed explanation of the components in the Vision kit](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-253/getting_started.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f)  
 
 ### Setup and Configuration  
-- TBD
+- Laptop setup:
+- If using Windows Laptop follow instructions [here](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-253/set_up_the_device.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f#panel-0-0-1).
+- If using Ubuntu Laptop, following instructions [here](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-253/set_up_the_device.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f#set-up-the-ubuntu-host)
+- If using a Mac , follow steps [here](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-253/set_up_the_device.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f#panel-0-0-2)
+  
 
-## Build procedures (Time : ~4-6 hrs )
+## Build procedures:
 #### Introduction to Qualcomm BUILD systems 
 
 - [Overview of Qualcomm build system and user profiles](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-254/introduction.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f)  
@@ -55,7 +54,7 @@ This task needs a Ubuntu workstation.
 #### Testing and Feedback  
 - Test the application on the IQ9 Beta Development Kit.
 
-## Focused AI/ML Development (Time : ~4-6 hrs)
+## Focused AI/ML Development 
 Focussed development using the Multimedia and AI SDKs of the Qualcomm Linux platform.
 
 ### Task 4: Compile and optimize an AI model.
@@ -91,7 +90,7 @@ Qualcomm will provide the official repository link for the YOLOv8/v9 model.
 
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
 
-## Focused Multimedia and Python Development (Time : ~2 hrs )
+## Focused Multimedia and Python Development 
 ### Task 7: Develop your first QIM SDK application
 
 #### Introduction to QIM SDK  
@@ -117,7 +116,7 @@ Qualcomm will provide the official repository link for the YOLOv8/v9 model.
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
 
-## Explore Sample and Experience application - (Time: 1-2 hours)
+## Explore Sample and Experience application.
 The goal is to setup the Qualcomm Reference hardware provided and the  Host PC and explore the capablities of the hardware .
 ### Task 9: Explore existing sample application on RB3Gen2.
 
