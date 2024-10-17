@@ -58,7 +58,7 @@ This task needs a Ubuntu workstation.
 Dedicated development utilizing the Multimedia and AI SDKs on the Qualcomm Linux platform
 
 ### Task 4: Compile and optimize an AI model using SNPE
-- Download InceptionV3 or any other latest model, Convert and quantize the model using Qualcomm Neural Processing SDK to DLC and run the model using IMSDK based sample app
+- Download InceptionV3 or any other latest model, Convert and quantize the model using Qualcomm Neural Processing SDK to DLC and run the model using IMSDK based sample app.
   
 #### References
 - [Overview of AI Developer workflow]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-15B/aiml-developer-workflow.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f)  
