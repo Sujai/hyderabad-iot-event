@@ -1,12 +1,12 @@
 # Hyderabad / IOT Workshop
 ## Developing Applications on the Qualcomm Linux Platform 
-A single day workshop for developers to build multimedia and AI applications .The goal is to create sample AI/ML or Multimedia applications using Qualcomm Linux platfom and capture feedback on development experience.
+A single day workshop for developers to build multimedia and AI applications .The goal is to create sample AI/ML or Multimedia applications using Qualcomm Linux platfom and capture feedback on your experience.
 
 ## Scope 
 ### Overview 
-- If you have not done so, [set up your Qualcomm ID](https://myaccount.qualcomm.com/signup), confirm your email, then [sign the PKLA](https://qualcomm.com/agreements) using your Qualcomm ID.  This gives you access to the documentation. 
+- If you have not done so, [set up your Qualcomm ID](https://myaccount.qualcomm.com/signup), confirm your email .This gives you access to the documentation and Qualcomm tools. 
 
-- Work on the task that is assigned to you by Nitin. Please provide feedback as you navigate Qualcomm documentation in the excel sheet provided to you by Nitin.
+- Work on the task that is assigned to you.Please provide feedback as you navigate Qualcomm documentation in the excel sheet provided to you .
   
 -  Update the Feedback Forum as you follow your workflow.Write down the any time you are lost, confused, or frustrated and, if applicable, how you resolved it.
 
@@ -104,8 +104,8 @@ Dedicated development utilizing the Multimedia and AI SDKs on the Qualcomm Linux
 
 ### Task 8: Develop Python Application 
 #### Introduction to QIM SDK
-- [Overview of QIM SDK]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-50/overview.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)  
-- [Python Sample applications](TBD)   
+- [Overview of QIM SDK](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-50/overview.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)  
+- [Python Sample applications]   
 
 #### Hands on Development  
 - Run the prebuilt python application.
