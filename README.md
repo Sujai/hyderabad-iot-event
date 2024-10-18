@@ -8,11 +8,12 @@ A single day workshop for developers to build multimedia and AI applications .Th
 
 - Work on the task that is assigned to you.Please provide feedback as you navigate Qualcomm documentation in the excel sheet provided to you .
   
--  Update the Feedback Forum as you follow your workflow.Write down the any time you are lost, confused, or frustrated and, if applicable, how you resolved it.
+- Update the Feedback Forum as you follow your workflow.Write down the any time you are lost, confused, or frustrated and, if applicable, how you resolved it.
 
 ## Introduction and Setup 
 ### Introduction  
-- [Overview of the RB3 Gen2 Development Kit and its components]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-115/dev-kits.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f)  
+- [Overview of the RB3 Gen2 Development Kit and its components]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-115/dev-kits.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f)
+- Overview of the IQ-9100 Beta Evaluation Kit. (Contact Qualcomm staff for the preview document)
 
 ### What is in the Box  
 - [Detailed explanation of the components in the Vision kit](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-253/getting_started.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f)  
@@ -21,7 +22,7 @@ A single day workshop for developers to build multimedia and AI applications .Th
 - Laptop setup:
 - If using Windows Laptop follow instructions [here](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-253/set_up_the_device.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f#panel-0-0-1).
 - If using Ubuntu Laptop, following instructions [here](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-253/set_up_the_device.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f#set-up-the-ubuntu-host)
-- If using a Mac , follow steps [here](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-253/set_up_the_device.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f#panel-0-0-2)
+- If using a Macbook , follow steps [here](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-253/set_up_the_device.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f#panel-0-0-2)
   
 
 ## Build procedures:
@@ -45,17 +46,21 @@ This task needs a Ubuntu workstation.
 #### Testing and Feedback  
 - Program the compiled build on RB3Gen2 and provide your feedback
 
-### Task 3: Develop and build source code of IQ9 Beta Development kit.
+### Task 3: Develop and build source code of IQ-9100 Beta Evaluation Kit.
 The goal is using an approved account of Qualcomm to download sources for the IQ9 Beta Development Kit. 
 Qualcomm will provide credentials to use for download of the sources.
 This task needs a Ubuntu workstation.
 #### Reference 
-- [github flow for registered developer](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-254/build_from_source_github_intro.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f)  
+- Follow steps from the pre-downloaded preview document provided to you by Qualcomm Staff 
 #### Testing and Feedback  
-- Test the application on the IQ9 Beta Development Kit.
+- Program the BSP image on IQ-9100 Beta Evaluation Kit.
 
 ## Focused AI/ML Development 
-Dedicated development utilizing the Multimedia and AI SDKs on the Qualcomm Linux platform
+Dedicated development utilizing the Multimedia and AI SDKs on the Qualcomm Linux platform.
+
+### Setup and Configuration  
+- To save time contact Qualcomm Staff to get the Platform ESDK.
+- For Windows Laptop : Follow the steps [here](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-41/getting-started.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f) to enable a Ubuntu environment for your application development and copy the SDK to it.
 
 ### Task 4: Compile and optimize an AI model using SNPE
 - Download InceptionV3 or any other latest model, Convert and quantize the model using Qualcomm Neural Processing SDK to DLC and run the model using IMSDK based sample app.
@@ -125,11 +130,11 @@ The goal is to setup the Qualcomm Reference hardware provided and the  Host PC a
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and provide your feedback .
   
-### Task 10: Explore existing sample application on IQ9 Beta DevKit
+### Task 10: Explore existing sample application on IQ-9100 Beta Evaluation Kit.
 
 - [Exploration of the Experience application ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-253/demo_app.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f) 
 
 - [Explore of the AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-50/example-applications.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
 
 #### Testing and Feedback  
-- Test the application on the RB3 Gen2 and provide your feedback .
+- Test the application on the IQ-9100 Beta Evaluation Kit. and provide your feedback .
