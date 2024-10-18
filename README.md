@@ -1,14 +1,12 @@
 # Hyderabad / IOT Workshop
 ## Developing Applications on the Qualcomm Linux Platform 
-A single day workshop for developers to build multimedia and AI applications .The goal is to create sample AI/ML or Multimedia applications using Qualcomm Linux platfom and capture feedback on your experience.
+A single day workshop for developers to build multimedia and AI applications.The goal is to create sample AI/ML or Multimedia applications using Qualcomm Linux platfom and capture feedback on your experience.
 
 ## Scope 
 ### Overview 
-- If you have not done so, [set up your Qualcomm ID](https://myaccount.qualcomm.com/signup), confirm your email .This gives you access to the documentation and Qualcomm tools. 
-
-- Work on the task that is assigned to you.Please provide feedback as you navigate Qualcomm documentation in the excel sheet provided to you .
-  
-- Update the Feedback Forum as you follow your workflow.Write down the any time you are lost, confused, or frustrated and, if applicable, how you resolved it.
+- If you have not done so, [set up your Qualcomm ID](https://myaccount.qualcomm.com/signup), confirm your email .This gives you access to the documentation and Qualcomm tools.
+- Work on the task assigned to you.Please provide feedback as you navigate Qualcomm documentation in the excel sheet provided to you .
+- Update the Feedback form (Excel) as you follow your workflow.Write down times you got lost, confused, or frustrated and, if applicable, how you resolved it.
 
 ## Introduction and Setup 
 ### Introduction  
@@ -123,18 +121,16 @@ Dedicated development utilizing the Multimedia and AI SDKs on the Qualcomm Linux
 The goal is to setup the Qualcomm Reference hardware provided and the  Host PC and explore the capablities of the hardware .
 ### Task 9: Explore existing sample application on RB3Gen2.
 
-- [Exploration of the Experience application ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-253/demo_app.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f) 
+- [Exploration Experience application ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-253/demo_app.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f) 
 
-- [Explore of the AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-50/example-applications.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
+- [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-50/example-applications.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
 
 #### Testing and Feedback  
-- Test the application on the RB3 Gen2 and provide your feedback .
+- Test the application on the RB3 Gen2 and provide your feedback.
   
-### Task 10: Explore existing sample application on IQ-9100 Beta Evaluation Kit.
+### Task 10: Explore  sample application on IQ-9100 Beta Evaluation Kit.
 
-- [Exploration of the Experience application ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-253/demo_app.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f) 
-
-- [Explore of the AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-50/example-applications.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
+- [AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-50/example-applications.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
 
 #### Testing and Feedback  
-- Test the application on the IQ-9100 Beta Evaluation Kit. and provide your feedback .
+- Test the application on the IQ-9100 Beta Evaluation Kit and provide your feedback .
