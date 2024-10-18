@@ -105,10 +105,10 @@ Dedicated development utilizing the Multimedia and AI SDKs on the Qualcomm Linux
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
 
-### Task 8: Develop Python Application 
+### Task 8: Develop Application in Python
 #### Introduction to QIM SDK
 - [Overview of QIM SDK](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-50/overview.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)  
-- [Python Sample applications]   
+- [Python Sample applications](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-50/python-sample-applications.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)   
 
 #### Hands on Development  
 - Run the prebuilt python application.
