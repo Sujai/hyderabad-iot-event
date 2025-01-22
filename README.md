@@ -28,7 +28,7 @@ A single day workshop for developers to build multimedia and AI applications.The
 
 - [Overview of Qualcomm build system and user profiles](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-254/introduction.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f)  
 
-### Task 1: Download and build source code of RB3Gen2 using GUI tools
+### Task 1: Download and build source code  for RB3Gen2 using QSC Launcher.
 The goal is to download Qualcomm software using tools and build it and eventually program an existing RB3Gen2 with compiled software.
 This task needs a Ubuntu workstation.
 #### Reference 
@@ -36,7 +36,7 @@ This task needs a Ubuntu workstation.
 #### Testing and Feedback  
 - Program the compiled build on RB3Gen2 and provide your feedback.
 
-### Task 2: Download and build source code of RB3Gen2 using git commands
+### Task 2: Download and build source code  for IQ8 Chipset using QSC Launcher.
 The goal is to downlod Qualcomm software using git and program an existing RB3Gen2 with the compiled software.
 This task needs a Ubuntu workstation.
 #### Reference
@@ -44,7 +44,7 @@ This task needs a Ubuntu workstation.
 #### Testing and Feedback  
 - Program the compiled build on RB3Gen2 and provide your feedback
 
-### Task 3: Develop and build source code of IQ-9100 Beta Evaluation Kit.
+### Task 3: Download and build source code  for IQ9 Chipset using QSC Launcher.
 The goal is using an approved account of Qualcomm to download sources for the IQ9 Beta Development Kit. 
 Qualcomm will provide credentials to use for download of the sources.
 This task needs a Ubuntu workstation.
@@ -60,7 +60,7 @@ Dedicated development utilizing the Multimedia and AI SDKs on the Qualcomm Linux
 - To save time contact Qualcomm Staff to get the Platform ESDK.
 - For Windows Laptop : Follow the steps [here](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-41/getting-started.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f) to enable a Ubuntu environment for your application development and copy the SDK to it.
 
-### Task 4: Compile and optimize an AI model using SNPE
+### Task 4: Explore AI hub and integrate model from AI hub into existing Sample Application.
 - Download InceptionV3 or any other latest model, Convert and quantize the model using Qualcomm Neural Processing SDK to DLC and run the model using IMSDK based sample app.
   
 #### References
@@ -70,7 +70,7 @@ Dedicated development utilizing the Multimedia and AI SDKs on the Qualcomm Linux
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
 
-### Task 5: Develop Face Detection application
+### Task 5: Bring new model to AI hub (BYOM) and integrate model into existing Sample Applications (supported models in IMSDK)
 - The goal is to use an face detection model (provided by Qualcomm) and write or modify an existing application to run face detection on camera stream.
 
 #### References
@@ -80,7 +80,7 @@ Dedicated development utilizing the Multimedia and AI SDKs on the Qualcomm Linux
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
 
-### Task 6:  Integrate Custom Model in an Application
+### Task 6:  Setup QAIRT SDK, Compile & Optimize an AI model using SNPE. Integrate into existing Sample Application
 - The objective is to utilize existing models from the AI Hub for segmentation, detection, classification, and super resolution, and to execute the corresponding applications with these models.
 - Try to get the latest open-source object detection model and utilize the AI Hub ‘Bring Your Own Model’ feature to convert and optimize it for Qualcomm SoCs. Integrate the optimized model into the application and execute it, as described in the previous step
 
@@ -134,3 +134,9 @@ The goal is to setup the Qualcomm Reference hardware provided and the  Host PC a
 
 #### Testing and Feedback  
 - Test the application on the IQ-9100 Beta Evaluation Kit and provide your feedback .
+
+### Task 11: MM Usecases -1
+
+### Task 12: MM Usecases -2
+
+### Task 13: MM Usecases -3
