@@ -39,16 +39,16 @@ This task needs a Ubuntu workstation.
 The goal is to downlod Qualcomm software using git and program an existing RB3Gen2 with the compiled software.
 This task needs a Ubuntu workstation.
 #### Reference
-- [github flow for unregistered developer](https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-254/github_workflow_unregistered_users.html?vproduct=1601111740013072&version=1.3)  
+ - [QSC workflows]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-254/build_from_source_qsc_gui_intro.html?vproduct=1601111740013072&version=1.3)   
 #### Testing and Feedback  
-- Program the compiled build on RB3Gen2 and provide your feedback
+- Program the compiled build on IQ8-Beta-EVK and provide your feedback
 
 ### Task 1.3: Download and build source code for IQ9 Chipset using QSC Launcher.
 The goal is using an approved account of Qualcomm to download sources for the IQ9 Beta Development Kit. 
 Qualcomm will provide credentials to use for download of the sources.
 This task needs a Ubuntu workstation.
 #### Reference 
-- Follow steps from the pre-downloaded preview document provided to you by Qualcomm Staff 
+ - [QSC workflows]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-254/build_from_source_qsc_gui_intro.html?vproduct=1601111740013072&version=1.3)   
 #### Testing and Feedback  
 - Program the BSP image on IQ-9100 Beta Evaluation Kit.
 
