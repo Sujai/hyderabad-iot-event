@@ -154,9 +154,9 @@ Thae goal is to use existing refernee applications as reference to create a new 
 The goal is to setup the Qualcomm Reference hardware provided and explore capabilities of hardware by running the sample applications.
 ### Task 9: Explore existing sample application on RB3Gen2 (GST Sample application and Python sample application )
 
-- [Exploration Experience application ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-253/demo_app.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f) 
+- [Exploration Experience application ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-253/demo_app.html?vproduct=1601111740013072&version=1.3) 
 
-- [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70015-50/example-applications.html?vproduct=1601111740013072&versionId=35c3bc73-6ae0-4179-b66b-a01844b5a87f&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
+- [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-50/example-applications.html?vproduct=1601111740013072&version=1.3&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
 
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and provide your feedback.
