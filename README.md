@@ -56,14 +56,14 @@ Dedicated development utilizing the Multimedia and AI SDKs on the Qualcomm Linux
 
 ### Setup and Configuration  
 - To save time contact Qualcomm Staff to get the Platform ESDK.
-- For Windows Laptop : Follow the steps [here](https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-41/getting-started.html?vproduct=1601111740013072&version=1.3) to enable a Ubuntu environment for your application development and copy the SDK to it.
+- For Windows Laptop : Follow the steps [here](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-41/set-up-windows-subsystem-for-linux-on-windows-11.html?vproduct=1601111740013072&version=1.4) to enable a Ubuntu environment for your application development and copy the ESDK to it.
 
 ### Task 2: Explore AI hub and integrate model from AI hub into existing Sample Applications.
 
 The objective is to utilize existing models from the AI Hub for segmentation, detection, classification, and super resolution, and to execute the corresponding applications with these models.
 
 #### References
-- [Overview of AI Developer workflow]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-15B/ai-ml-developer-workflow.html?vproduct=1601111740013072&version=1.3)
+- [Overview of AI Developer workflow]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-15B/introduction.html?vproduct=1601111740013072&version=1.4)
   
 #### Testing and Feedback 
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
@@ -73,28 +73,29 @@ The objective is to utilize existing models from the AI Hub for segmentation, de
 •	Try to get the latest open-source object detection model and utilize the AI Hub ‘Bring Your Own Model’ feature to convert and optimize it for Qualcomm SoCs. Integrate the optimized model into the application and execute it, as described in the previous step
 
 #### References
-- [Overview of AI Developer workflow]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-15B/ai-ml-developer-workflow.html?vproduct=1601111740013072&version=1.3)
+- [Overview of AI Developer workflow](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-15B/introduction.html?vproduct=1601111740013072&version=1.4)
 
 #### Testing and Feedback 
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
 
-### Task 4:  Setup QAIRT SDK, Compile & Optimize an AI model using SNPE. Integrate into existing Sample Application
+### Task 4: Setup QAIRT SDK, Compile & Optimize an AI model using SNPE/QNN. Integrate into existing Sample Application
 - Download InceptionV3 or any other latest model, Convert and quantize the model using Qualcomm Neural Processing SDK to DLC and run the model using IMSDK based sample app.
+- Download InceptionV3 or any other latest model, Convert and quantize the model using Qualcomm AI Engine Direct SDK to BIN and run the model using IMSDK based sample app
 
 #### References
-- [Overview of AI Developer workflow]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-15B/ai-ml-developer-workflow.html?vproduct=1601111740013072&version=1.3)
-- [Explore AI Sample applications](  https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-15B/ai-ml-reference-apps.html?vproduct=1601111740013072&version=1.3)
+- [Overview of AI Developer workflow](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-15B/introduction.html?vproduct=1601111740013072&version=1.4)
+- [Explore AI Sample applications](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-15B/ai-ml-reference-apps.html?vproduct=1601111740013072&version=1.4)
 
 #### Testing and Feedback  
 
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
 
-### Task 5:   Setup QAIRT SDK, Compile & Optimize an AI model using QNN.  Integrate into existing Sample Application
--  Download InceptionV3 or any other latest model, Convert and quantize the model using Qualcomm AI Engine Direct SDK to BIN and run the model using IMSDK based sample app
+### Task 5: Experience Qualcomm Developers Cloud(QDC) Workflow in AI developer workflow and execute sample application
+-   Follow the QDC documentation to execute supported reference sample applications on RB3Gen2 device on cloud. 
 
 #### References
-- [Overview of AI Developer workflow]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-15B/ai-ml-developer-workflow.html?vproduct=1601111740013072&version=1.3)
-- [Explore AI Sample applications](  https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-15B/ai-ml-reference-apps.html?vproduct=1601111740013072&version=1.3)
+- [Overview of AI Developer workflow](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-15B/introduction.html?vproduct=1601111740013072&version=1.4)
+- [Explore QDC Documentation](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-15B/sample-app-qdc.html?vproduct=1601111740013072&version=1.4)
 
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
@@ -103,46 +104,35 @@ The objective is to utilize existing models from the AI Hub for segmentation, de
 ### Task 6: Develop your first QIM SDK application
 
 #### Introduction to QIM SDK  
-- [Overview of QIM SDK](https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-50/overview.html?vproduct=1601111740013072&version=1.3&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)  
-- [Overview of Application development]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-51/introduction.html?vproduct=1601111740013072&version=1.3&facet=Qualcomm%20Intelligent%20Multimedia%20Product%20(QIMP)%20SDK )  
+- [Overview of QIM SDK](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-50/example-applications.html?vproduct=1601111740013072&version=1.4&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)  
+- [Overview of Application development](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-51/introduction.html?vproduct=1601111740013072&version=1.4&facet=Qualcomm%20Intelligent%20Multimedia%20Product%20(QIMP)%20SDK)  
 
 #### Hands on Development  
 
-- [Develop a Simple multimedia application]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-51/application-development.html?vproduct=1601111740013072&version=1.3&facet=Qualcomm%20Intelligent%20Multimedia%20Product%20(QIMP)%20SDK)  
+- [Develop a Simple multimedia application](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-51/content-develop-your-first-application.html?vproduct=1601111740013072&version=1.4&facet=Qualcomm%20Intelligent%20Multimedia%20Product%20(QIMP)%20SDK#content-develop-your-first-application)  
 
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
 
 ### Task 7: Develop New Reference application .
 #### Introduction to QIM SDK
-Thae goal is to use existing refernee applications as reference to create a new application.
+Thae goal is to use existing reference applications as reference to create a new application.
 
-- [Overview of QIM SDK](https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-50/overview.html?vproduct=1601111740013072&version=1.3&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)  
-
-#### Hands on Development  
-- [Customize Sample applications]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-51/customize-sample-applications.html?vproduct=1601111740013072&version=1.3&facet=Qualcomm%20Intelligent%20Multimedia%20Product%20(QIMP)%20SDK)
-  
-#### Testing and Feedback  
-- Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
-
-
-
-#### Introduction to QIM SDK
-- [Overview of QIM SDK]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-50/overview.html?vproduct=1601111740013072&version=1.3&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)  
-- [Python Sample applications]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-50/python-sample-applications.html?vproduct=1601111740013072&version=1.3&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)   
+- [Overview of QIM SDK](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-50/example-applications.html?vproduct=1601111740013072&version=1.4&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
+- [Customize Sample applications](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-51/customize-sample-applications.html?vproduct=1601111740013072&version=1.4&facet=Qualcomm%20Intelligent%20Multimedia%20Product%20(QIMP)%20SDK)
 
 #### Hands on Development  
 - Run the prebuilt python application.
 - Customize and run python samples.
-
+  
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
 
 ## Python App Development
 ### Task 8:  Develop Application with Python API of GStreamer
 #### Introduction to QIM SDK  
-- [Overview of QIM SDK]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-50/overview.html?vproduct=1601111740013072&version=1.3&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)  
-- [Python samples]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-50/python-sample-applications.html?vproduct=1601111740013072&version=1.3&facet=Qualcomm%20Intelligent%20Multimedia%20SDK) 
+- [Overview of QIM SDK](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-50/example-applications.html?vproduct=1601111740013072&version=1.4&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)  
+- [Python samples](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-50/python-sample-applications.html?vproduct=1601111740013072&version=1.4&facet=Qualcomm%20Intelligent%20Multimedia%20SDK) 
 
 #### Hands on Development  
 - Use on target of host based development and push the file through adb and verify.  
@@ -154,13 +144,38 @@ Thae goal is to use existing refernee applications as reference to create a new 
 The goal is to setup the Qualcomm Reference hardware provided and explore capabilities of hardware by running the sample applications.
 ### Task 9: Explore existing sample application on RB3Gen2 (GST Sample application and Python sample application )
 
-- [Exploration Experience application ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-253/demo_app.html?vproduct=1601111740013072&version=1.3) 
+- [Exploration Experience application ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-253/demo_app.html) 
 
-- [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-50/example-applications.html?vproduct=1601111740013072&version=1.3&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
+- [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-50/example-applications.html?vproduct=1601111740013072&version=1.4&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
 
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and provide your feedback.
 
+### Task 10: Experience One-click launcher and execute sample application from One Click launcher
+
+- [Experience application using One Click launcher](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-253/demo_app.html)
+- [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-50/example-applications.html?vproduct=1601111740013072&version=1.4&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
+
+#### Testing and Feedback  
+- Test the application on the RB3 Gen2 and provide your feedback.
+
+### Task 11: Create IMSDK Container Image and execute the sample applications inside the container.
+
+- [Exploration Experience application inside Docker](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-253/demo_app.html) 
+
+- [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-50/example-applications.html?vproduct=1601111740013072&version=1.4&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
+
+#### Testing and Feedback  
+- Test the sample application on the RB3 Gen2 inside docker container and provide your feedback.
+
+### Task 12: Experience the IDE and Execute the sample applications inside the IDE
+
+- [Exploration Sample apps using IDE](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-51/content-develop-your-first-application.html?vproduct=1601111740013072&version=1.4&facet=Qualcomm%20Intelligent%20Multimedia%20Product%20(QIMP)%20SDK) 
+- [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-50/example-applications.html?vproduct=1601111740013072&version=1.4&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
+
+#### Testing and Feedback  
+- Test the IDE on the RB3 Gen2 and provide your feedback.
+  
 ## MM Tasks
 ### Task 10.1: Video encode with GMSL/MIPI Camera using Gstreamer commands
 The goal is to setup the Qualcomm Reference hardware provided and use QLI documentation to achieve the task (Encoding video with data from camera stream).
