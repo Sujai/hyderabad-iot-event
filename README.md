@@ -162,38 +162,38 @@ Thae goal is to use existing reference applications as reference to create a new
 
 
 ## MM Tasks
-###Task 12.1: Video encode with GMSL/MIPI Camera using Gstreamer commands**
+### Task 12.1: Video encode with GMSL/MIPI Camera using Gstreamer commands
 
 The goal is to setup the Qualcomm Reference hardware provided and use QLI documentation to achieve the task (Encoding video with data from camera stream).
 No documentation reference provided.Expect engineer to navigate to findout the instructions.
 
 Note:
-For RB3(QCS6490):
-GMSL camera : 
-Supported. Please check GMSL camera is connected to RB3 device .
-MIPI camera:
-Supported. Camera sensors are attached to device by default.
-USB camera:
-Supported. Please check USB camera connected on RB3 device.
+#### For RB3(QCS6490): <br>
+#### GMSL camera : <br>
+Supported. Please check GMSL camera is connected to RB3 device .<br>
+#### MIPI camera:<br>
+Supported. Camera sensors are attached to device by default.<br>
+#### USB camera:<br>
+Supported. Please check USB camera connected on RB3 device.<br>
  
  
-For RB8 (QCS9075)please check:
-GMSL camera :
-Supported. RB8 core kits don’t have GMSL interface by default. 
-We need to connect GMSL board on top of it to connect GMSL cameras..
-please check GMSL board and GMSL camera  that are connected on top core kit..
-MIPI camera :
-Supported. Please check MIPI camera connected on RB8 core kit.
-USB camera:
-Supported. Please check USB camera connected on RB8 core kit.
+#### For RB8 (QCS9075) please check:<br>
+#### GMSL camera :<br>
+Supported. RB8 core kits don’t have GMSL interface by default. <br>
+We need to connect GMSL board on top of it to connect GMSL cameras..<br>
+please check GMSL board and GMSL camera  that are connected on top core kit..<br>
+#### MIPI camera :<br>
+Supported. Please check MIPI camera connected on RB8 core kit.<br>
+#### USB camera:<br>
+Supported. Please check USB camera connected on RB8 core kit.<br>
  
-For Ride SX (QCS8300) please check:
-GMSL camera :
-Supported. Please check GMSL camera is connected to device
-MIPI camera:
-Not supported
-Usb camera:
-Supported. Please check USB camera connected on Ride SX device
+#### For Ride SX (QCS8300) please check:<br>
+#### GMSL camera :<br>
+Supported. Please check GMSL camera is connected to device<br>
+#### MIPI camera:<br>
+Not supported<br>
+#### Usb camera:<br>
+Supported. Please check USB camera connected on Ride SX device<br>
 
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and provide your feedback.
