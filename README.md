@@ -63,7 +63,8 @@ Dedicated development utilizing the Multimedia and AI SDKs on the Qualcomm Linux
 The objective is to utilize existing models from the AI Hub for segmentation, detection, classification, and super resolution, and to execute the corresponding applications with these models.
 
 #### References
-- [Overview of AI Developer workflow]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-15B/introduction.html?vproduct=1601111740013072&version=1.4)
+- [Overview of AI Developer workflow](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-15B/introduction.html?vproduct=1601111740013072&version=1.4)
+- [Integrate AIHUB Models](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-15B/develop-your-own-application-im-sdk.html?vproduct=1601111740013072&version=1.4)
   
 #### Testing and Feedback 
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
