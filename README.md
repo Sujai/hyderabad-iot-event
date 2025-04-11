@@ -160,14 +160,12 @@ The goal is to setup the Qualcomm Reference hardware provided and explore capabi
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and provide your feedback.
 
-### Task 11: Create IMSDK Container Image and execute the sample applications inside the container.
+### Task 11: Experience Gstreamer command line use cases and try building new use cases.
 
-- [Exploration Experience application inside Docker](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-253/demo_app.html) 
-
-- [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-50/example-applications.html?vproduct=1601111740013072&version=1.4&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
+- [Gstreamer CLI Use cases](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-50/gstreamer-application-use-cases.html?vproduct=1601111740013072&version=1.4&facet=Qualcomm%20Intelligent%20Multimedia%20SDK) 
 
 #### Testing and Feedback  
-- Test the sample application on the RB3 Gen2 inside docker container and provide your feedback.
+- Test the sample application on the RB3 Gen2 and provide your feedback.
 
 ### Task 12: Experience the IDE and Execute the sample applications inside the IDE
 
