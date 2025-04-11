@@ -10,28 +10,28 @@ A single day workshop for developers to build multimedia and AI applications.The
 
 ## Introduction and Setup 
 ### Introduction  
-- [Overview of the RB3 Gen2 Development Kit and its components]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-115/dev-kits.html?vproduct=1601111740013072&version=1.3 )
+- [Overview of the RB3 Gen2 Development Kit and its components]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-115/dev-kits.html?vproduct=1601111740013072&version=1.4 )
 - Overview of the IQ-9100 Beta Evaluation Kit. (Contact Qualcomm staff for the preview document)
 
 ### What is in the Box  
-- [Detailed explanation of the components in the Vision kit](https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-253/getting_started.html?vproduct=1601111740013072&version=1.3)  
+- [Detailed explanation of the components in the Vision kit](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-253/qsg-landing-page.html)
 
 ### Setup and Configuration  
 - Laptop setup:
-- If using Windows Laptop follow instructions [here]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-253/set_up_the_device.html?vproduct=1601111740013072&version=1.3#panel-0-V2luZG93cw==).
-- If using Ubuntu Laptop, following instructions [here]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-253/set_up_the_device.html?vproduct=1601111740013072&version=1.3#panel-0-VWJ1bnR1)
-- If using a Macbook , follow steps [here]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-253/set_up_the_device.html?vproduct=1601111740013072&version=1.3#panel-0-bWFjT1M=)
+- If using Windows Laptop follow instructions [here]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-253/upgrade-rb3gen2-software.html#panel-0-V2luZG93cw==).
+- If using Ubuntu Laptop, following instructions [here]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-253/upgrade-rb3gen2-software.html#panel-0-VWJ1bnR1)
+- If using a Macbook , follow steps [here]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-253/upgrade-rb3gen2-software.html#panel-0-bWFjT1M=)
   
 
 ## Build workflow:
 #### Introduction to Qualcomm BUILD systems 
-- [Overview of Qualcomm build system and user profiles]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-254/introduction.html?vproduct=1601111740013072&version=1.3)  
+- [Overview of Qualcomm build system and user profiles]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-254/introduction.html?vproduct=1601111740013072&version=1.4)  
 
 ### Task 1.1: Download and build source code  for RB3Gen2 using QSC Launcher.
 The goal is to download Qualcomm software using tools and build it and eventually program an existing RB3Gen2 with compiled software.
 This task needs a Ubuntu workstation.
 #### Reference 
-- [QSC workflows]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-254/build_from_source_qsc_gui_intro.html?vproduct=1601111740013072&version=1.3)  
+- [QSC workflows]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-254/build_from_source_qsc_gui_intro.html?vproduct=1601111740013072&version=1.4)  
 #### Testing and Feedback  
 - Program the compiled build on RB3Gen2 and provide your feedback.
 
@@ -39,7 +39,7 @@ This task needs a Ubuntu workstation.
 The goal is to downlod Qualcomm software using QSC too and program an IQ8-Beta-EVK with the compiled software.
 This task needs a Ubuntu workstation.
 #### Reference
- - [QSC workflows]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-254/build_from_source_qsc_gui_intro.html?vproduct=1601111740013072&version=1.3)   
+ - [QSC workflows]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-254/build_from_source_qsc_gui_intro.html?vproduct=1601111740013072&version=1.4)   
 #### Testing and Feedback  
 - Program the compiled build on IQ8-Beta-EVK and provide your feedback
 
@@ -47,7 +47,7 @@ This task needs a Ubuntu workstation.
 The goal is to downlod Qualcomm software using QSC too and program an IQ9-Beta-EVK with the compiled software.
 This task needs a Ubuntu workstation.
 #### Reference 
- - [QSC workflows]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70017-254/build_from_source_qsc_gui_intro.html?vproduct=1601111740013072&version=1.3)   
+ - [QSC workflows]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-254/build_from_source_qsc_gui_intro.html?vproduct=1601111740013072&version=1.4)   
 #### Testing and Feedback  
 - Program the BSP image on IQ-9100 Beta Evaluation Kit.
 
@@ -241,3 +241,23 @@ No documentation reference provided.Expect engineeer to  navigate to findout the
 
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and provide your feedback
+
+#### Task 14: Quick start using Qualcomm VSCode IDE 
+- Download vscode ide
+- Onboard eSDK ( already downloaded in Ubuntu machine) 
+- Explore the AI experience app.
+- Import any AI app source code , compile and push modified app via IDE. 
+Check time taken to complete all steps and overall clarity and UX of the workflows
+
+#### Task 15: Upgrade existing RB3Gen2:
+- Provide GA1.2 based device to the developer. 
+- Use documentation to find out commands to find QLI  version on hardware.
+- Perform upgrade following documents.
+- Findout hardware variant ( core or vision kit ) 
+- Program CDT based on hw variant at hand .
+- Confirm basic apps work .
+Check time to complete, check if instructions are clear and confirm flashing worked as documented.
+
+#### Task 16: Create a docker container with QIM SDK
+- Follow steps to create a 24.04 based  docker container with QIM .
+- Deploy container in RB3GEN2 and confirm functions work as per document.
