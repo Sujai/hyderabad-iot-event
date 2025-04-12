@@ -11,11 +11,14 @@ A single day workshop for developers to build multimedia and AI applications. Th
 
 ## Introduction and Setup 
 ### Introduction  
+Links to important hardware and software tools to be used for the workshop.
 - [Overview of the RB3 Gen2 Development Kit and its components]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-115/dev-kits.html?vproduct=1601111740013072&version=1.4 )
 - [Overview of the IQ9 Beta Evaluation Kit]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-115/dev-kits.html?vproduct=1601111740013072&version=1.4 )
+- [Qualcomm VSCode IDE]( https://docs.qualcomm.com/bundle/publicresource/topics/80-79972-1/overview.html )
+- [Qualcomm Device Cloud]( https://qdc.qualcomm.com/ )
 
 ### What is in the Box  
-- [Detailed explanation of the components in the Vision kit]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-253/qsg-landing-page.html)
+- [Detailed explanation of the components in the Vision kit]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-253/getting_started.html#what-is-included)
 
 ### Setup and Configuration  
 - Laptop setup:
