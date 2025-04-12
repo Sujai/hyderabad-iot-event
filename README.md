@@ -1,7 +1,7 @@
 # Hyderabad / IOT Workshop
 Wi-Fi Credentials for 12-04-2025 workshop( SSID : Argo, Password : pHzQ9U4T)
 ## Developing Applications on the Qualcomm Linux Platform 
-A single day workshop for developers to build multimedia and AI applications. The goal is to create sample AI/ML or Multimedia applications using Qualcomm Linux platform and capture feedback on your experience.
+A single day workshop for developers to build multimedia and AI applications. The goal is to Explore application development using Qualcomm VSCODE IDE,Explore sample apps using QDemo and  run sample AI/ML or Multimedia applications using Qualcomm Linux platform and capture feedback on the experience.
 
 ## Scope 
 ### Overview 
@@ -12,7 +12,7 @@ A single day workshop for developers to build multimedia and AI applications. Th
 ## Introduction and Setup 
 ### Introduction  
 - [Overview of the RB3 Gen2 Development Kit and its components]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-115/dev-kits.html?vproduct=1601111740013072&version=1.4 )
-- [Overview of the IQ9 Beta Evaluation Kit] ( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-115/dev-kits.html?vproduct=1601111740013072&version=1.4)
+- [Overview of the IQ9 Beta Evaluation Kit]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-115/dev-kits.html?vproduct=1601111740013072&version=1.4 )
 
 ### What is in the Box  
 - [Detailed explanation of the components in the Vision kit]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-253/qsg-landing-page.html)
@@ -169,7 +169,7 @@ The goal is to setup the Qualcomm Reference hardware provided and use QLI docume
 No documentation reference provided.Expect engineer to navigate to findout the instructions.
 
 Note:
-#### For RB3(QCS6490): <br>
+#### For RB3Gen2 (QCS6490): <br>
 #### GMSL camera : <br>
 Supported. Please check GMSL camera is connected to RB3 device .<br>
 #### MIPI camera:<br>
@@ -178,17 +178,17 @@ Supported. Camera sensors are attached to device by default.<br>
 Supported. Please check USB camera connected on RB3 device.<br>
  
  
-#### For RB8 (QCS9075) please check:<br>
+#### For IQ9-EVK (QCS9075) please check:<br>
 #### GMSL camera :<br>
-Supported. RB8 core kits don’t have GMSL interface by default. <br>
+Supported. IQ9-EVK core kits don’t have GMSL interface by default. <br>
 We need to connect GMSL board on top of it to connect GMSL cameras..<br>
 please check GMSL board and GMSL camera  that are connected on top core kit..<br>
 #### MIPI camera :<br>
-Supported. Please check MIPI camera connected on RB8 core kit.<br>
+Supported. Please check MIPI camera connected on IQ9-EVK core kit.<br>
 #### USB camera:<br>
-Supported. Please check USB camera connected on RB8 core kit.<br>
+Supported. Please check USB camera connected on IQ9-EVK core kit.<br>
  
-#### For Ride SX (QCS8300) please check:<br>
+#### For IQ8-Beta EVK (QCS8300) please check:<br>
 #### GMSL camera :<br>
 Supported. Please check GMSL camera is connected to device<br>
 #### MIPI camera:<br>
@@ -200,7 +200,7 @@ Supported. Please check USB camera connected on Ride SX device<br>
 - Test the application on the RB3 Gen2 and provide your feedback.
 
 
-### Task 12.2: Audio decode and encode using GStreamer application (RB3)
+### Task 12.2: Audio decode and encode using GStreamer application (RB3Gen2)
 
 The goal is to setup the Qualcomm Reference hardware provided and use QLI documentation to load the required pre requisites and do audio encode and decode at GST level.
 #### Reference
@@ -269,7 +269,7 @@ No documentation reference provided. Expect engineer to  navigate to find out th
 
 ## Upgrade Workflow
 ### Task 16:Upgrade existing RB3Gen2
-- Provide GA1.2 based device to the developer. 
+- Upgrade RB3Gen2 with older software to latest version 
 - Use documentation to find out commands to find QLI  version on hardware.
 - Perform upgrade following documents.
 - Find out hardware variant ( core or vision kit ) 
