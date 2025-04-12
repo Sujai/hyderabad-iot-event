@@ -1,4 +1,5 @@
 # Hyderabad / IOT Workshop
+Wi-Fi Credentials for 12-04-2025 workshop( SSID : Argo, Password : pHzQ9U4T)
 ## Developing Applications on the Qualcomm Linux Platform 
 A single day workshop for developers to build multimedia and AI applications. The goal is to create sample AI/ML or Multimedia applications using Qualcomm Linux platform and capture feedback on your experience.
 
