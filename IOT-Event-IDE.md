@@ -16,18 +16,18 @@ Links to important hardware and software tools to be used for the workshop.
 - [Overview of the RB3 Gen2 Development Kit and its components]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-115/dev-kits.html?vproduct=1601111740013072&version=1.4 )
 - [Qualcomm VSCode IDE]( https://docs.qualcomm.com/bundle/publicresource/topics/80-79972-1/overview.html )
 
-### What is in the Box  
+### Device Setup:  
 - [Detailed explanation of the components in the Vision kit]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-253/getting_started.html#what-is-included)
 
-### Setup and Configuration  
-- Laptop setup:
-- If using Windows Laptop follow instructions [here]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-253/upgrade-rb3gen2-software.html#panel-0-V2luZG93cw==).
-- If using Ubuntu Laptop, following instructions [here]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-253/upgrade-rb3gen2-software.html#panel-0-VWJ1bnR1)
-- If using a Macbook , follow steps [here]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-253/upgrade-rb3gen2-software.html#panel-0-bWFjT1M=)
+### Host Setup and Configuration  
+- Host setup:
+- If using Windows Host follow instructions [here]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-253/upgrade-rb3gen2-software.html#panel-0-V2luZG93cw==).
+- If using Ubuntu Host, follow instructions [here]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-253/upgrade-rb3gen2-software.html#panel-0-VWJ1bnR1)
+- If using Macbook Host, follow instructions [here]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-253/upgrade-rb3gen2-software.html#panel-0-bWFjT1M=)
   
 
 ## Experience Qualcomm® Visual Studio Code Extension:
-#### Documentation
+#### IDE User Guide
 - [Overview of Qualcomm® Visual Studio Code Extension](https://docs.qualcomm.com/bundle/publicresource/topics/80-79972-1/overview.html)  
 
 ## AI Developer Workflow
