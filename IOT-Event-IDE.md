@@ -36,16 +36,16 @@ Links to important hardware and software tools to be used for the workshop.
 ### Task 1: IDE Installation. 
 
 The objective of this task is to complete:-
-    • IDE Installation on Ubuntu – x86
-    • IDE Installation on Windows – x86
-    • ESDK Code Download and flash
+- IDE Installation on Ubuntu – x86
+- IDE Installation on Windows – x86
+- ESDK Code Download and flash
   
 #### Testing and Feedback 
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
 
 ### Task 2: Sample App Execute
 
-The objective is to execute the pre-installed sample application.
+- The objective is to execute the pre-installed sample application.
 
 #### Testing and Feedback 
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
@@ -54,11 +54,11 @@ The objective is to execute the pre-installed sample application.
 
 The objective of this task is to Customize existing Sample App using IDE. It subtasks involves changes like updating model path, labels path, 
 constants or properties of any element in sample app. It involves below steps:-
-    • Import
-    • Customize
-    • Compile
-    • Install
-    • Execute
+- Import
+- Customize
+- Compile
+- Install
+- Execute
 
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
@@ -66,22 +66,27 @@ constants or properties of any element in sample app. It involves below steps:-
 
 ### Task 4: AI Model / BYOM: 
 
-The objective of this task is to download and flash model from AI-HUB, and execute same.
+- The objective of this task is to download the model from AIHUB and execute the reference application with the model.
+- Try other models from the AIHUB and execute reference application using the model.
+- Try to generate the model by yourself and try to execute the model with the reference application.
+
+#### Reference Doc: 
+[Integrate Custom Model](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-15B/integrate-custom-model.html?vproduct=1601111740013072&version=1.4)
 
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
 
 ### Task 5: Develop new App:
 
-Basic
-	• Open IDE
-	• Write Hello World / Camera 
-	• Compile and Install		
-	• Run Hello World on Target
+#### Basic
+- Open IDE
+- Write Hello World / Camera 
+- Compile and Install		
+- Run Hello World on Target
  
-   Advanced
-	• Write Camera to Wayland Sink app
-	• Compile and Run
+ #### Advanced
+- Write Camera to Wayland Sink app
+- Compile and Run
 
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
