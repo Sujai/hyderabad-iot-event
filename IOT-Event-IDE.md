@@ -1,5 +1,6 @@
 # Hyderabad / IOT Workshop
-Wi-Fi Credentials for 12-04-2025 workshop( SSID : Argo, Password : pHzQ9U4T)
+Wi-Fi Credentials for 03-05-2025 workshop( SSID : Argo, Password : pHzQ9U4T)
+
 ## Developing Applications on the Qualcomm Linux Platform 
 A single day workshop for developers to experience Qualcomm® Visual Studio Code Extension. The goal is to Explore Qualcomm VSCODE IDE to run precompiled sample application, New application development, Integrate custom models (BYOM) into the application on Qualcomm Linux platform and capture feedback on the experience.
 
