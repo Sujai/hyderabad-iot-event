@@ -1,7 +1,7 @@
 # Hyderabad / IOT Workshop
-Wi-Fi Credentials for 12-04-2025 workshop( SSID : Argo, Password : pHzQ9U4T)
+Wi-Fi Credentials for 05-07-2025 workshop( SSID : Argo, Password : pHzQ9U4T)
 ## Developing Applications on the Qualcomm Linux Platform 
-A single day workshop for developers to build multimedia and AI applications. The goal is to Explore application development using Qualcomm VSCODE IDE,Explore sample apps using QDemo and  run sample AI/ML or Multimedia applications using Qualcomm Linux platform and capture feedback on the experience.
+A single day workshop for developers to build multimedia and AI applications. The goal is to Explore application development using Qualcomm VSCODE IDE, Explore sample apps using QDemo, QDC and run sample AI/ML or Multimedia applications using Qualcomm Linux platform and capture feedback on the experience.
 
 ## Scope 
 ### Overview 
@@ -12,24 +12,24 @@ A single day workshop for developers to build multimedia and AI applications. Th
 ## Introduction and Setup 
 ### Introduction  
 Links to important hardware and software tools to be used for the workshop.
-- [Overview of the RB3 Gen2 Development Kit and its components]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-115/dev-kits.html?vproduct=1601111740013072&version=1.4 )
-- [Overview of the IQ9 Beta Evaluation Kit]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-115/dev-kits.html?vproduct=1601111740013072&version=1.4 )
+- [Overview of the RB3 Gen2 Development Kit and its components]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-115/dev-kits.html?vproduct=1601111740013072&version=1.5 )
+- [Overview of the IQ9 Beta Evaluation Kit]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-115/dev-kits.html?vproduct=1601111740013072&version=1.5 )
 - [Qualcomm VSCode IDE]( https://docs.qualcomm.com/bundle/publicresource/topics/80-79972-1/overview.html )
 - [Qualcomm Device Cloud]( https://qdc.qualcomm.com/ )
 
 ### What is in the Box  
-- [Detailed explanation of the components in the Vision kit]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-253/getting_started.html#what-is-included)
+- [Detailed explanation of the components in the Vision kit]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-253/getting_started.html#what-is-included)
 
 ### Setup and Configuration  
 - Laptop setup:
-- If using Windows Laptop follow instructions [here]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-253/upgrade-rb3gen2-software.html#panel-0-V2luZG93cw==).
-- If using Ubuntu Laptop, following instructions [here]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-253/upgrade-rb3gen2-software.html#panel-0-VWJ1bnR1)
-- If using a Macbook , follow steps [here]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-253/upgrade-rb3gen2-software.html#panel-0-bWFjT1M=)
+- If using Windows Laptop follow instructions [here]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-253/upgrade-rb3gen2-software.html#panel-0-V2luZG93cw==).
+- If using Ubuntu Laptop, following instructions [here]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-253/upgrade-rb3gen2-software.html#panel-0-VWJ1bnR1)
+- If using a Macbook , follow steps [here]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-253/upgrade-rb3gen2-software.html#panel-0-bWFjT1M=)
   
 
 ## Build workflow:
 #### Introduction to Qualcomm BUILD systems 
-- [Overview of Qualcomm build system and user profiles]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-254/introduction.html?vproduct=1601111740013072&version=1.4)  
+- [Overview of Qualcomm build system and user profiles]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-254/introduction.html?vproduct=1601111740013072&version=1.5)  
 
 ## AI Developer Workflow
 Dedicated development utilizing the Multimedia and AI SDKs on the Qualcomm Linux platform.
@@ -39,7 +39,7 @@ Dedicated development utilizing the Multimedia and AI SDKs on the Qualcomm Linux
 The objective is to utilize existing models from the AI Hub for segmentation, detection, classification, and super resolution, and to execute the corresponding applications with these models.
 
 #### References
-- [Overview of AI Developer workflow]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-15B/introduction.html?vproduct=1601111740013072&version=1.4)
+- [Overview of AI Developer workflow]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-15B/introduction.html?vproduct=1601111740013072&version=1.5)
   
 #### Testing and Feedback 
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
@@ -49,8 +49,8 @@ The objective is to utilize existing models from the AI Hub for segmentation, de
 Try to get the latest open-source object detection model and utilize the AI Hub ‘Bring Your Own Model’ feature to convert and optimize it for Qualcomm SoCs. Integrate the optimized model into the application and execute it, as described in the previous step.
 
 #### References
-- [Overview of AI Developer workflow]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-15B/introduction.html?vproduct=1601111740013072&version=1.4)
-- [Integrate AIHUB Models](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-15B/develop-your-own-application-im-sdk.html?vproduct=1601111740013072&version=1.4)
+- [Overview of AI Developer workflow]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-15B/introduction.html?vproduct=1601111740013072&version=1.5)
+- [Integrate AIHUB Models](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-15B/develop-your-own-application-im-sdk.html?vproduct=1601111740013072&version=1.5)
   
 #### Testing and Feedback 
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
@@ -62,8 +62,8 @@ Try to get the latest open-source object detection model and utilize the AI Hub 
 - Download InceptionV3 or any other latest model, Convert and quantize the model using Qualcomm AI Engine Direct SDK to BIN and run the model using IMSDK based sample app
 
 #### References
-- [Overview of AI Developer workflow]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-15B/introduction.html?vproduct=1601111740013072&version=1.4)
-- [Explore AI Sample applications]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-15B/ai-ml-reference-apps.html?vproduct=1601111740013072&version=1.4)
+- [Overview of AI Developer workflow]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-15B/introduction.html?vproduct=1601111740013072&version=1.5)
+- [Explore AI Sample applications]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-15B/ai-ml-reference-apps.html?vproduct=1601111740013072&version=1.5)
 
 #### Testing and Feedback  
 
@@ -75,8 +75,8 @@ Try to get the latest open-source object detection model and utilize the AI Hub 
 -   Follow the QDC documentation to execute supported reference sample applications on RB3Gen2 device on cloud. 
 
 #### References
-- [Overview of AI Developer workflow]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-15B/introduction.html?vproduct=1601111740013072&version=1.4)
-- [Explore QDC Documentation]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-15B/sample-app-qdc.html?vproduct=1601111740013072&version=1.4)
+- [Overview of AI Developer workflow]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-15B/introduction.html?vproduct=1601111740013072&version=1.5)
+- [Explore QDC Documentation]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-15B/sample-app-qdc.html?vproduct=1601111740013072&version=1.5)
 
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
@@ -86,12 +86,12 @@ Try to get the latest open-source object detection model and utilize the AI Hub 
 ### Task 5: Develop your first QIM SDK application
 
 #### Introduction to QIM SDK  
-- [Overview of QIM SDK]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-50/example-applications.html?vproduct=1601111740013072&version=1.4&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)  
-- [Overview of Application development]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-51/introduction.html?vproduct=1601111740013072&version=1.4&facet=Qualcomm%20Intelligent%20Multimedia%20Product%20(QIMP)%20SDK)  
+- [Overview of QIM SDK]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/example-applications.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)  
+- [Overview of Application development]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-51/introduction.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20Product%20(QIMP)%20SDK)  
 
 #### Hands on Development  
 
-- [Develop a Simple multimedia application]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-51/content-develop-your-first-application.html?vproduct=1601111740013072&version=1.4&facet=Qualcomm%20Intelligent%20Multimedia%20Product%20(QIMP)%20SDK#content-develop-your-first-application)  
+- [Develop a Simple multimedia application]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-51/content-develop-your-first-application.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20Product%20(QIMP)%20SDK#content-develop-your-first-application)  
 
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
@@ -102,8 +102,8 @@ Try to get the latest open-source object detection model and utilize the AI Hub 
 #### Introduction to QIM SDK
 Thae goal is to use existing reference applications as reference to create a new application.
 
-- [Overview of QIM SDK]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-50/example-applications.html?vproduct=1601111740013072&version=1.4&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
-- [Customize Sample applications]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-51/customize-sample-applications.html?vproduct=1601111740013072&version=1.4&facet=Qualcomm%20Intelligent%20Multimedia%20Product%20(QIMP)%20SDK)
+- [Overview of QIM SDK]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/example-applications.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
+- [Customize Sample applications]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-51/customize-sample-applications.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20Product%20(QIMP)%20SDK)
 
 #### Hands on Development  
 - Run the prebuilt python application.
@@ -115,8 +115,8 @@ Thae goal is to use existing reference applications as reference to create a new
 
 ### Task 7: Experience One-click launcher and execute sample application from One Click launcher
 
-- [Experience application using One Click launcher]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-253/demo_app.html)
-- [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-50/example-applications.html?vproduct=1601111740013072&version=1.4&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
+- [Experience application using One Click launcher]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-253/demo_app.html)
+- [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/example-applications.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
 
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and provide your feedback.
@@ -124,7 +124,7 @@ Thae goal is to use existing reference applications as reference to create a new
 
 ### Task 8: Experience Gstreamer command line use cases and try building new use cases.
 
-- [Gstreamer CLI Use cases](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-50/gstreamer-application-use-cases.html?vproduct=1601111740013072&version=1.4&facet=Qualcomm%20Intelligent%20Multimedia%20SDK) 
+- [Gstreamer CLI Use cases](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/gstreamer-application-use-cases.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK) 
 
 #### Testing and Feedback  
 - Test the sample application on the RB3 Gen2 and provide your feedback.
@@ -134,8 +134,8 @@ Thae goal is to use existing reference applications as reference to create a new
 ### Task 9: Develop Application with Python API of Gstreamer
 
 #### Introduction to QIM SDK  
-- [Overview of QIM SDK]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-50/example-applications.html?vproduct=1601111740013072&version=1.4&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)  
-- [Python samples]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-50/python-sample-applications.html?vproduct=1601111740013072&version=1.4&facet=Qualcomm%20Intelligent%20Multimedia%20SDK) 
+- [Overview of QIM SDK]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/example-applications.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)  
+- [Python samples]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/python-sample-applications.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK) 
 
 #### Hands on Development  
 - Use on target of host based development and push the file through adb and verify.  
@@ -147,9 +147,9 @@ Thae goal is to use existing reference applications as reference to create a new
 ## Run All Sample Apps
 ### Task 10: Explore existing sample Applications on RB3Gen2 – GST Sample Applications, and Python Sample Applications
 
-- [Exploration Experience application ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-253/demo_app.html) 
+- [Exploration Experience application ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-253/demo_app.html) 
 
-- [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-50/example-applications.html?vproduct=1601111740013072&version=1.4&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
+- [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/example-applications.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
 
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and provide your feedback.
@@ -158,8 +158,8 @@ Thae goal is to use existing reference applications as reference to create a new
 ## IDE Documentation
 ### Task 11: Experience the IDE and Execute the sample applications inside the IDE
 
-- [Exploration Sample apps using IDE]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-51/content-develop-your-first-application.html?vproduct=1601111740013072&version=1.4&facet=Qualcomm%20Intelligent%20Multimedia%20Product%20(QIMP)%20SDK) 
-- [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-50/example-applications.html?vproduct=1601111740013072&version=1.4&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
+- [Exploration Sample apps using IDE]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-51/content-develop-your-first-application.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20Product%20(QIMP)%20SDK) 
+- [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/example-applications.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
 
 #### Testing and Feedback  
 - Test the IDE on the RB3 Gen2 and provide your feedback.
@@ -207,7 +207,7 @@ Supported. Please check USB camera connected on Ride SX device<br>
 
 The goal is to setup the Qualcomm Reference hardware provided and use QLI documentation to load the required pre requisites and do audio encode and decode at GST level.
 #### Reference
-https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-50/gst-audio-video-encode.html?vproduct=1601111740013072&version=1.4&facet=Qualcomm%20Intelligent%20Multimedia%20SDK 
+https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/gst-audio-video-encode.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK 
 
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and provide your feedback.
@@ -217,7 +217,7 @@ https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-50/gst-audio-vid
 
 The goal is to setup the Qualcomm Reference hardware provided and use QLI documentation to load the required pre requisites and do audio encode and decode at platform/HAL level.
 #### References
-- [Qualcomm Linux Audio Guide - Addendum]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70018-16A/audio-bringup.html?vproduct=1601111740013072&version=1.4&facet=Audio&state=preview#verify-record)
+- [Qualcomm Linux Audio Guide - Addendum]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-16A/audio-bringup.html?vproduct=1601111740013072&version=1.5&facet=Audio&state=preview#verify-record)
 
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and provide your feedback.
@@ -284,84 +284,3 @@ Check time to complete, check if instructions are clear and confirm flashing wor
 <br>
 <br>
 <br>
-## TASK ALLOCATION
-
-Task # 1 Explore AI hub and integrate model from AI hub into existing Sample Application.
-
-[Developer Name:Akhil Nelaturi / Sirisha R][QC PoC :Rakesh R]
-
-Task # 2 Bring new model to AI hub (BYOM) and integrate model into existing Sample Applications (supported models in IMSDK).
-
-[Developer Name:Akhil Nelaturi / Sirisha R][QC PoC :Rakesh R]
-
-Task # 3 Setup QAIRT SDK, Compile & Optimize an AI model using SNPE/QNN. Integrate into existing Sample Application
-
-[Developer Name: Susantini Behera / Sirisha R][QC PoC : Nitika G]
-
-Task # 4 Experience QDC Workflow in AI developer workflow and try sample application from Qualcomm Developers Cloud. 
-
-[Developer Name:Manoj Chandra / Tarun Pulluri][QC PoC : Nitika G]
-
-Task # 5 Develop your first QIM SDK application. 
-
-[Developer Name: Manoj Chandra / SHAIK KARIMULLASHAW][QC PoC : Rakesh R]
-
-Task # 6 Develop new Reference Application – GST based. 
-
-[Developer Name: Rajesh Chanda / Susantini Behera][QC PoC : Nitika G]
-
-Task # 7 Experience One-click launcher and execute sample application from One Click launcher 
-
-[Developer Name: Durgaprasad Bethi/ Tarun Pulluri][QC PoC : Rahul K ]
-
-Task # 8 Create IMSDK Container Image and execute the sample applications inside the container
-
-[Developer Name: Sirisha R / Tarun Pulluri][QC PoC : Rahul K ]
-
-Task # 9 Develop Application with Python API of Gstreamer
-
-[Developer Name: Rajesh Chanda / Susantini Behera][QC PoC : Nitika G ]
-
-Task # 10 Explore existing sample Applications on RB3Gen2 – GST Sample Applications, and Python Sample Applications
-
-[Developer Name: Sahasra KEERTHI/ Durgaprasad Bethi][QC PoC : Rakesh R ]
-
-Task # 11 Experience the IDE and Execute the sample applications inside the IDE
-
-[Developer Name: Rajesh Chanda / SHAIK KARIMULLASHAW][QC PoC : Rahul K / Sahaj ]
-
-Task # 12.1 Video encode with GMSL Camera using Gstreamer commands
-
-[Developer Name: Gnaneshwar Bandari][QC PoC : Balakrishnamachary ]
-
-Task # 12.2 Audio decode and encode using GStreamer application (RB3)
-
-[Developer Name: Venkata Sai Dharanikota][QC PoC : Sharad Sangle ]
-
-Task # 12.3 Verify driver level playback and record
-
-[Developer Name: Geethavani Pallati][QC PoC : Sharad Sangle ]
-
-Task # 13.1 Video playback using GST command
-
-[Developer Name: Sanga Ankita][QC PoC : Harikrishna C ]
-
-Task # 13.2 Offline Video decode using V4l2 test app (Host PC Kernel >v6.6)
-
-[Developer Name: Srikanth Guptha][QC PoC : Harikrishna C ]
-
-Task # 14 Implement OpenCV rotate application with FastCV
-
-[Developer Name: SK Arif Majid][QC PoC : Harikrishna C ]
-
-Task # 15.1 Weston EGL client application commands
-
-[Developer Name: Emandi Jagadesh][QC PoC : Tanuj Kumar ]
-
-Task # 15.2 Compile and run GLES and Vulkan applications
-
-[Developer Name: Jakir Hussain][QC PoC : Tanuj Kumar ]
-
-Task # 16 Upgrade existing RB3Gen2
-
-[Developer Name: Rajkumar D][QC PoC : Rajender R ]
