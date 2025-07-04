@@ -1,7 +1,7 @@
 # Hyderabad / IOT Workshop
-Wi-Fi Credentials for 05-07-2025 workshop( SSID : Argo, Password : pHzQ9U4T)
+Wi-Fi Credentials for 05-07-2025 workshop( SSID : QLIEVENT, Password : qlievent1@)
 ## Developing Applications on the Qualcomm Linux Platform 
-A single day workshop for developers to build multimedia and AI applications. The goal is to Explore application development using Qualcomm VSCODE IDE, Explore sample apps using QDemo, QDC and run sample AI/ML or Multimedia applications using Qualcomm Linux platform and capture feedback on the experience.
+A single day workshop for developers to build multimedia and AI applications. The goal is to Explore application development using Explore sample apps using QDemo and run sample AI/ML or Multimedia applications using Qualcomm Linux platform and capture feedback on the experience.
 
 ## Scope 
 ### Overview 
@@ -22,9 +22,9 @@ Links to important hardware and software tools to be used for the workshop.
 
 ### Setup and Configuration  
 - Laptop setup:
-- If using Windows Laptop follow instructions [here]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-253/upgrade-rb3gen2-software.html#panel-0-V2luZG93cw==).
-- If using Ubuntu Laptop, following instructions [here]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-253/upgrade-rb3gen2-software.html#panel-0-VWJ1bnR1)
-- If using a Macbook , follow steps [here]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-253/upgrade-rb3gen2-software.html#panel-0-bWFjT1M=)
+- If using Windows Laptop follow instructions [here]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-251/upgrade-rb3gen2-software.html#panel-0-V2luZG93cw==).
+- If using Ubuntu Laptop, following instructions [here]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-251/upgrade-rb3gen2-software.html#panel-0-VWJ1bnR1)
+- If using a Macbook , follow steps [here](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-251/upgrade-rb3gen2-software.html#panel-0-bWFjT1M=)
   
 
 ## Build workflow:
