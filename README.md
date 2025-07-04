@@ -115,7 +115,7 @@ Thae goal is to use existing reference applications as reference to create a new
 
 ### Task 7: Experience One-click launcher and execute sample application from One Click launcher
 
-- [Experience application using One Click launcher]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-253/demo_app.html)
+- [Experience application using One Click launcher]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-253/run-sample-apps-qdemo.html)
 - [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/example-applications.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
 
 #### Testing and Feedback  
@@ -147,7 +147,7 @@ Thae goal is to use existing reference applications as reference to create a new
 ## Run All Sample Apps
 ### Task 10: Explore existing sample Applications on RB3Gen2 – GST Sample Applications, and Python Sample Applications
 
-- [Exploration Experience application ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-253/demo_app.html) 
+- [Exploration Experience application ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-253/run-sample-apps-qdemo.html  ) 
 
 - [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/example-applications.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
 
@@ -217,7 +217,7 @@ https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/gst-audio-vid
 
 The goal is to setup the Qualcomm Reference hardware provided and use QLI documentation to load the required pre requisites and do audio encode and decode at platform/HAL level.
 #### References
-- [Qualcomm Linux Audio Guide - Addendum]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-16A/audio-bringup.html?vproduct=1601111740013072&version=1.5&facet=Audio&state=preview#verify-record)
+- [Qualcomm Linux Audio Guide - Addendum]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-16A/audio-addendum.html?vproduct=1601111740013072&version=1.5&facet=Audio)
 
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and provide your feedback.
