@@ -158,7 +158,7 @@ Thae goal is to use existing reference applications as reference to create a new
 ## IDE Documentation
 ### Task 11: Experience the IDE and Execute the sample applications inside the IDE
 
-- [Exploration Sample apps using IDE]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-51/content-develop-your-first-application.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20Product%20(QIMP)%20SDK) 
+- [Exploration Sample apps using IDE]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-51/content-develop-your-first-application.html#develop-using-qualcomm-visual-studio-code-extension) 
 - [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/example-applications.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
 
 #### Testing and Feedback  
