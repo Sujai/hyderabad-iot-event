@@ -18,7 +18,7 @@ Links to important hardware and software tools to be used for the workshop.
 - [Qualcomm Device Cloud]( https://qdc.qualcomm.com/ )
 
 ### What is in the Box  
-- [Detailed explanation of the components in the Vision kit]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-253/getting_started.html#what-is-included)
+- [Detailed explanation of the components in the Vision kit]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-253/rb3-qsg-whats-in-box.html#what-is-included)
 
 ### Setup and Configuration  
 - Laptop setup:
