@@ -1,5 +1,5 @@
 # Hyderabad / IOT Workshop
-Wi-Fi Credentials for 05-07-2025 workshop( SSID : QLIEVENT, Password : qlievent1@)
+
 ## Developing Applications on the Qualcomm Linux Platform 
 A single day workshop for developers to build multimedia and AI applications. The goal is to Explore application development using Explore sample apps using QDemo and run sample AI/ML or Multimedia applications using Qualcomm Linux platform and capture feedback on the experience.
 
