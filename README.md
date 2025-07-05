@@ -70,13 +70,13 @@ Try to get the latest open-source object detection model and utilize the AI Hub 
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
 
 
-### Task 4: Experience QDC Workflow in AI developer workflow and try sample application from Qualcomm Developers Cloud
+### Task 4: Experience HW Benchmarking Sample APP and SNPE Python container
 
--   Follow the QDC documentation to execute supported reference sample applications on RB3Gen2 device on cloud. 
+-   Follow the IMSDK documentation to execute supported reference sample applications on RB3Gen2 device.
 
 #### References
-- [Overview of AI Developer workflow]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-15B/introduction.html?vproduct=1601111740013072&version=1.5)
-- [Explore QDC Documentation]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-15B/sample-app-qdc.html?vproduct=1601111740013072&version=1.5)
+- [HW Benchmarking App](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/vision_ai_demo_app.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
+- [SNPE Python container]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/image-segmentation-using-python.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
 
 #### Testing and Feedback  
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
