@@ -87,7 +87,7 @@ Try to get the latest open-source object detection model and utilize the AI Hub 
 
 #### Introduction to QIM SDK  
 - [Overview of QIM SDK]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/example-applications.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)  
-- [Overview of Application development]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-51/introduction.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20Product%20(QIMP)%20SDK)  
+- [Overview of Application development](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-51/application-development.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)  
 
 #### Hands on Development  
 
