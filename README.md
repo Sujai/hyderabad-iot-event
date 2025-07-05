@@ -122,9 +122,9 @@ Thae goal is to use existing reference applications as reference to create a new
 - Test the application on the RB3 Gen2 and provide your feedback.
 
 
-### Task 8: Experience Gstreamer command line use cases and try building new use cases.
+### Task 8: Create IMSDK Container Image and execute the sample applications inside the container
 
-- [Gstreamer CLI Use cases](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/gstreamer-application-use-cases.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK) 
+- [IMSDK Docker Doc](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/application-deployment-within-container-api-gstd.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK) 
 
 #### Testing and Feedback  
 - Test the sample application on the RB3 Gen2 and provide your feedback.
