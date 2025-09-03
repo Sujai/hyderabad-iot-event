@@ -12,19 +12,18 @@ A single day workshop for developers to build multimedia and AI applications. Th
 ## Introduction and Setup 
 ### Introduction  
 Links to important hardware and software tools to be used for the workshop.
-- [Overview of the RB3 Gen2 Development Kit and its components]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-115/dev-kits.html?vproduct=1601111740013072&version=1.5 )
-- [Overview of the IQ9 Beta Evaluation Kit]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-115/dev-kits.html?vproduct=1601111740013072&version=1.5 )
+- [Overview of the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and its components]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-115/dev-kits.html?vproduct=1601111740013072&version=1.5)
 - [Qualcomm VSCode IDE]( https://docs.qualcomm.com/bundle/publicresource/topics/80-79972-1/overview.html )
 - [Qualcomm Device Cloud]( https://qdc.qualcomm.com/ )
 
 ### What is in the Box  
-- [Detailed explanation of the components in the Vision kit]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-253/rb3-qsg-whats-in-box.html#what-is-included)
+- [Detailed explanation of the components in the IQ-9075 Evaluation Kit (EVK) (IQ-9075)]( https://docs.qualcomm.com/bundle/resource/topics/80-70018-263/getting_started.html#what-is-included)
 
 ### Setup and Configuration  
 - Laptop setup:
-- If using Windows Laptop follow instructions [here]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-251/upgrade-rb3gen2-software.html#panel-0-V2luZG93cw==).
-- If using Ubuntu Laptop, following instructions [here]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-251/upgrade-rb3gen2-software.html#panel-0-VWJ1bnR1)
-- If using a Macbook , follow steps [here](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-251/upgrade-rb3gen2-software.html#panel-0-bWFjT1M=)
+- If using Windows Laptop follow instructions [here](https://docs.qualcomm.com/bundle/resource/topics/80-70020-261/iq9-ug-update-the-sw.html#panel-0-V2luZG93cw==).
+- If using Ubuntu Laptop, following instructions [here]( https://docs.qualcomm.com/bundle/resource/topics/80-70020-261/iq9-ug-landing-page.html)
+- If using a Macbook , follow steps [here](https://docs.qualcomm.com/bundle/resource/topics/80-70020-261/iq9-ug-update-the-sw.html#panel-0-bWFjT1M=)
   
 
 ## Build workflow:
@@ -42,7 +41,7 @@ The objective is to utilize existing models from the AI Hub for segmentation, de
 - [Overview of AI Developer workflow]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-15B/introduction.html?vproduct=1601111740013072&version=1.5)
   
 #### Testing and Feedback 
-- Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and share your experience/feedback in the excel.
 
 ### Task 2: Bring new model to AI hub (BYOM) and integrate model into existing Sample Applications (supported models in IMSDK)
 
@@ -53,7 +52,7 @@ Try to get the latest open-source object detection model and utilize the AI Hub 
 - [Integrate AIHUB Models](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-15B/develop-your-own-application-im-sdk.html?vproduct=1601111740013072&version=1.5)
   
 #### Testing and Feedback 
-- Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and share your experience/feedback in the excel.
 
 
 ### Task 3: Setup QAIRT SDK, Compile & Optimize an AI model using SNPE/QNN Integrate into existing Sample Application
@@ -67,51 +66,7 @@ Try to get the latest open-source object detection model and utilize the AI Hub 
 
 #### Testing and Feedback  
 
-- Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
-
-
-### Task 4: Experience HW Benchmarking Sample APP and SNPE Python container
-
--   Follow the IMSDK documentation to execute supported reference sample applications on RB3Gen2 device.
-
-#### References
-- [HW Benchmarking App](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/vision_ai_demo_app.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
-- [SNPE Python container]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/image-segmentation-using-python.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
-
-#### Testing and Feedback  
-- Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
-
-
-## QIM SDK Sample App:
-### Task 5: Develop your first QIM SDK application
-
-#### Introduction to QIM SDK  
-- [Overview of QIM SDK]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/example-applications.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)  
-- [Overview of Application development](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-51/application-development.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)  
-
-#### Hands on Development  
-
-- [Develop a Simple multimedia application]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-51/content-develop-your-first-application.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20Product%20(QIMP)%20SDK#content-develop-your-first-application)  
-
-#### Testing and Feedback  
-- Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
-
-
-### Task 6: Develop new Reference Application – GST based
-
-#### Introduction to QIM SDK
-Thae goal is to use existing reference applications as reference to create a new application.
-
-- [Overview of QIM SDK]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/example-applications.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
-- [Customize Sample applications]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-51/customize-sample-applications.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20Product%20(QIMP)%20SDK)
-
-#### Hands on Development  
-- Run the prebuilt python application.
-- Customize and run python samples.
-  
-#### Testing and Feedback  
-- Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
-
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and share your experience/feedback in the excel.
 
 ### Task 7: Experience One-click launcher and execute sample application from One Click launcher
 
@@ -119,16 +74,7 @@ Thae goal is to use existing reference applications as reference to create a new
 - [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/example-applications.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
 
 #### Testing and Feedback  
-- Test the application on the RB3 Gen2 and provide your feedback.
-
-
-### Task 8: Create IMSDK Container Image and execute the sample applications inside the container
-
-- [IMSDK Docker Doc](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/application-deployment-within-container-api-gstd.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK) 
-
-#### Testing and Feedback  
-- Test the sample application on the RB3 Gen2 and provide your feedback.
-
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and provide your feedback.
 
 ## Python App Development
 ### Task 9: Develop Application with Python API of Gstreamer
@@ -141,18 +87,18 @@ Thae goal is to use existing reference applications as reference to create a new
 - Use on target of host based development and push the file through adb and verify.  
 
 #### Testing and Feedback  
-- Test the application on the RB3 Gen2 and share your experience/feedback.
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and share your experience/feedback.
 
 
 ## Run All Sample Apps
-### Task 10: Explore existing sample Applications on RB3Gen2 – GST Sample Applications, and Python Sample Applications
+### Task 10: Explore existing sample Applications on IQ-9075 Evaluation Kit (EVK) (IQ-9075) – GST Sample Applications, and Python Sample Applications
 
 - [Exploration Experience application ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-253/run-sample-apps-qdemo.html  ) 
 
 - [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/example-applications.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
 
 #### Testing and Feedback  
-- Test the application on the RB3 Gen2 and provide your feedback.
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and provide your feedback.
 
 
 ## IDE Documentation
@@ -162,8 +108,12 @@ Thae goal is to use existing reference applications as reference to create a new
 - [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/example-applications.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
 
 #### Testing and Feedback  
-- Test the IDE on the RB3 Gen2 and provide your feedback.
+- Test the IDE on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and provide your feedback.
+- [Exploration Experience application ](https://docs.qualcomm.com/bundle/publicresource/topics/80-79972-1/quick_start.html#panel-0-0-1 )
+### Task 11.1: Upgrade IQ9 GA1.5 using IDE
 
+#### Testing and Feedback  
+- Test the IDE on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and provide your feedback.
 
 ## MM Tasks
 ### Task 12.1: Video encode with GMSL/MIPI Camera using Gstreamer commands
@@ -172,13 +122,13 @@ The goal is to setup the Qualcomm Reference hardware provided and use QLI docume
 No documentation reference provided.Expect engineer to navigate to findout the instructions.
 
 Note:
-#### For RB3Gen2 (QCS6490): <br>
+#### For IQ-9075 Evaluation Kit (EVK) (IQ-9075): <br>
 #### GMSL camera : <br>
-Supported. Please check GMSL camera is connected to RB3 device .<br>
+Supported. Please check GMSL camera is connected to IQ-9075 Evaluation Kit (EVK) (IQ-9075) device .<br>
 #### MIPI camera:<br>
 Supported. Camera sensors are attached to device by default.<br>
 #### USB camera:<br>
-Supported. Please check USB camera connected on RB3 device.<br>
+Supported. Please check USB camera connected on IQ-9075 Evaluation Kit (EVK) (IQ-9075) device.<br>
  
  
 #### For IQ9-EVK (QCS9075) please check:<br>
@@ -200,17 +150,17 @@ Not supported<br>
 Supported. Please check USB camera connected on Ride SX device<br>
 
 #### Testing and Feedback  
-- Test the application on the RB3 Gen2 and provide your feedback.
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and provide your feedback.
 
 
-### Task 12.2: Audio decode and encode using GStreamer application (RB3Gen2)
+### Task 12.2: Audio decode and encode using GStreamer application (IQ-9075 Evaluation Kit (EVK) (IQ-9075))
 
 The goal is to setup the Qualcomm Reference hardware provided and use QLI documentation to load the required pre requisites and do audio encode and decode at GST level.
 #### Reference
 https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/gst-audio-video-encode.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK 
 
 #### Testing and Feedback  
-- Test the application on the RB3 Gen2 and provide your feedback.
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and provide your feedback.
 
 
 ### Task 12.3: Verify driver level playback and record
@@ -220,7 +170,7 @@ The goal is to setup the Qualcomm Reference hardware provided and use QLI docume
 - [Qualcomm Linux Audio Guide - Addendum]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-16A/audio-addendum.html?vproduct=1601111740013072&version=1.5&facet=Audio)
 
 #### Testing and Feedback  
-- Test the application on the RB3 Gen2 and provide your feedback.
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and provide your feedback.
 
 
 ## Video Task
@@ -230,7 +180,7 @@ The goal is to setup the Qualcomm Reference hardware provided and use QLI docume
 No documentation reference provided.Expect engineeer to  navigate to findout the instructions.
 
 #### Testing and Feedback  
-- Test the application on the RB3 Gen2 and provide your feedback.
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and provide your feedback.
 
 
 ### Task 13.2: Offline Video decode using V4l2 test app (Host PC Kernel >v6.6)
@@ -239,7 +189,7 @@ The goal is to setup the Qualcomm Reference hardware provided and use QLI docume
 No documentation reference provided.Expect engineeer to  navigate to findout the instructions.
 
 #### Testing and Feedback  
-- Test the application on the RB3 Gen2 and provide your feedback.
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and provide your feedback.
 
 
 ### Task 14: Implement OpenCV rotate application with FastCV
@@ -249,7 +199,7 @@ rotate application using fastCV.
 No documentation reference provided.Expect engineeer to  navigate to findout the instructions.
 
 #### Testing and Feedback  
-- Test the application on the RB3 Gen2 and provide your feedback
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and provide your feedback
 
 ### Task 15: Graphics Task
 #### Task 15.1: Weston EGL client application commands
@@ -258,7 +208,7 @@ The goal is to setup the Qualcomm Reference hardware provided and use QLI docume
 No documentation reference provided. Expect engineer to  navigate to find out the instructions.
 
 #### Testing and Feedback  
-- Test the application on the RB3 Gen2 and provide your feedback
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and provide your feedback
 
 
 ### Task 15.2: Compile and run GLES and Vulkan applications.
@@ -267,12 +217,12 @@ The goal is to setup the Qualcomm Reference hardware provided and use QLI docume
 No documentation reference provided. Expect engineer to  navigate to find out the instructions.
 
 #### Testing and Feedback  
-- Test the application on the RB3 Gen2 and provide your feedback
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and provide your feedback
 
 
 ## Upgrade Workflow
-### Task 16:Upgrade existing RB3Gen2
-- Upgrade RB3Gen2 with older software to latest version 
+### Task 16:Upgrade existing IQ-9075 Evaluation Kit (EVK) (IQ-9075)
+- Upgrade IQ-9075 Evaluation Kit (EVK) (IQ-9075) with older software to latest version 
 - Use documentation to find out commands to find QLI  version on hardware.
 - Perform upgrade following documents.
 - Find out hardware variant ( core or vision kit ) 
