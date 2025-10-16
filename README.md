@@ -80,8 +80,8 @@ Try to get the latest open-source object detection model and utilize the AI Hub 
 ### Task 9: Develop Application with Python API of Gstreamer
 
 #### Introduction to QIM SDK  
-- [Overview of QIM SDK]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/example-applications.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)  
-- [Python samples]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/python-sample-applications.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK) 
+- [Overview of QIM SDK](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-51/qmi-sdk-qsg-landing-page.html?vproduct=1601111740013072&version=1.6&facet=Intelligent_Multimedia_SDK.SDK.2.0)  
+- [Python samples](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-50/python-sample-applications.html?vproduct=1601111740013072&version=1.6&facet=Intelligent_Multimedia_SDK.SDK.2.0) 
 
 #### Hands on Development  
 - Use on target of host based development and push the file through adb and verify.  
