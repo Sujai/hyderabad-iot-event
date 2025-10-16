@@ -250,6 +250,18 @@ The goal is to setup Qualcomm Profiler and information on how to use use it to c
 - Find out hardware variant ( core or vision kit ) 
 - Program CDT based on hw variant at hand .
 - Confirm basic apps work .
+  
+## OOB experience
+### Task 13 :Upgrade existing IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform
+- OOB -- Connect kbd/mouse/display/spk/wifi... & run EVK as SBC (Single Board computer).  Build an Multimedia Gstreamer basedapp 
+- OOB -- Connect BT kbd/mouse/headset/ display... & run EVK as SBC. Make a call? Google Meet? 
+- OOB -- Connect kbd/mouse/display/spk/wifi... & run EVK as SBC. Run a Linux network game?
+
+
+
+
+
+
 
 Check time to complete, check if instructions are clear and confirm flashing worked as documented.
 <br>
