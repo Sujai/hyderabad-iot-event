@@ -12,7 +12,7 @@ A single day workshop for developers to build multimedia and AI applications. Th
 ## Introduction and Setup 
 ### Introduction  
 Links to important hardware and software tools to be used for the workshop.
-- [Overview of the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and its components]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-115/dev-kits.html?vproduct=1601111740013072&version=1.5)
+- [Overview of the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and its components](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-115/dev-kits.html?vproduct=1601111740013072&version=1.6)
 - [Qualcomm VSCode IDE]( https://docs.qualcomm.com/bundle/publicresource/topics/80-79972-1/overview.html )
 - [Qualcomm Device Cloud]( https://qdc.qualcomm.com/ )
 
@@ -28,7 +28,7 @@ Links to important hardware and software tools to be used for the workshop.
 
 ## Build workflow:
 #### Introduction to Qualcomm BUILD systems 
-- [Overview of Qualcomm build system and user profiles]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-254/introduction.html?vproduct=1601111740013072&version=1.5)  
+- [Overview of Qualcomm build system and user profiles](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-254/introduction.html?vproduct=1601111740013072&version=1.6)  
 
 ## AI Developer Workflow
 Dedicated development utilizing the Multimedia and AI SDKs on the Qualcomm Linux platform.
@@ -38,7 +38,7 @@ Dedicated development utilizing the Multimedia and AI SDKs on the Qualcomm Linux
 The objective is to utilize existing models from the AI Hub for segmentation, detection, classification, and super resolution, and to execute the corresponding applications with these models.
 
 #### References
-- [Overview of AI Developer workflow]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-15B/introduction.html?vproduct=1601111740013072&version=1.5)
+- [Overview of AI Developer workflow](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-15B/introduction.html?vproduct=1601111740013072&version=1.6)
   
 #### Testing and Feedback 
 - Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and share your experience/feedback in the excel.
@@ -48,8 +48,8 @@ The objective is to utilize existing models from the AI Hub for segmentation, de
 Try to get the latest open-source object detection model and utilize the AI Hub ‘Bring Your Own Model’ feature to convert and optimize it for Qualcomm SoCs. Integrate the optimized model into the application and execute it, as described in the previous step.
 
 #### References
-- [Overview of AI Developer workflow]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-15B/introduction.html?vproduct=1601111740013072&version=1.5)
-- [Integrate AIHUB Models](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-15B/develop-your-own-application-im-sdk.html?vproduct=1601111740013072&version=1.5)
+- [Overview of AI Developer workflow](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-15B/introduction.html?vproduct=1601111740013072&version=1.6)
+- [Integrate AIHUB Models](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-15B/develop-your-own-application-im-sdk.html?vproduct=1601111740013072&version=1.6)
   
 #### Testing and Feedback 
 - Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and share your experience/feedback in the excel.
@@ -61,8 +61,8 @@ Try to get the latest open-source object detection model and utilize the AI Hub 
 - Download InceptionV3 or any other latest model, Convert and quantize the model using Qualcomm AI Engine Direct SDK to BIN and run the model using IMSDK based sample app
 
 #### References
-- [Overview of AI Developer workflow]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-15B/introduction.html?vproduct=1601111740013072&version=1.5)
-- [Explore AI Sample applications]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-15B/ai-ml-reference-apps.html?vproduct=1601111740013072&version=1.5)
+- [Overview of AI Developer workflow](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-15B/introduction.html?vproduct=1601111740013072&version=1.6)
+- [Explore AI Sample applications](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-15B/ai-ml-reference-apps.html?vproduct=1601111740013072&version=1.6)
 
 #### Testing and Feedback  
 
