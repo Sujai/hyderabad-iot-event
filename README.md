@@ -12,12 +12,12 @@ A single day workshop for developers to build multimedia and AI applications. Th
 ## Introduction and Setup 
 ### Introduction  
 Links to important hardware and software tools to be used for the workshop.
-- [Overview of the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and its components](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-115/dev-kits.html?vproduct=1601111740013072&version=1.6)
+- [Overview of the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and its components](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-115/dev-kits.html?vproduct=1601111740013072&version=1.6)
 - [Qualcomm VSCode IDE]( https://docs.qualcomm.com/bundle/publicresource/topics/80-79972-1/overview.html )
 - [Qualcomm Device Cloud]( https://qdc.qualcomm.com/ )
 
 ### What is in the Box  
-- [Detailed explanation of the components in the IQ-9075 Evaluation Kit (EVK) (IQ-9075)]( https://docs.qualcomm.com/bundle/resource/topics/80-70018-263/getting_started.html#what-is-included)
+- [Detailed explanation of the components in the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform]( https://docs.qualcomm.com/bundle/resource/topics/80-70018-263/getting_started.html#what-is-included)
 
 ### Setup and Configuration  
 - Laptop setup:
@@ -41,7 +41,7 @@ The objective is to utilize existing models from the AI Hub for segmentation, de
 - [Overview of AI Developer workflow](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-15B/introduction.html?vproduct=1601111740013072&version=1.6)
   
 #### Testing and Feedback 
-- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and share your experience/feedback in the excel.
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and share your experience/feedback in the excel.
 
 ### Task 2: Bring new model to AI hub (BYOM) and integrate model into existing Sample Applications (supported models in IMSDK)
 
@@ -52,7 +52,7 @@ Try to get the latest open-source object detection model and utilize the AI Hub 
 - [Integrate AIHUB Models](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-15B/develop-your-own-application-im-sdk.html?vproduct=1601111740013072&version=1.6)
   
 #### Testing and Feedback 
-- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and share your experience/feedback in the excel.
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and share your experience/feedback in the excel.
 
 
 ### Task 3: Setup QAIRT SDK, Compile & Optimize an AI model using SNPE/QNN Integrate into existing Sample Application
@@ -66,18 +66,18 @@ Try to get the latest open-source object detection model and utilize the AI Hub 
 
 #### Testing and Feedback  
 
-- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and share your experience/feedback in the excel.
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and share your experience/feedback in the excel.
 
-### Task 7: Experience One-click launcher and execute sample application from One Click launcher
+### Task 4: Experience One-click launcher and execute sample application from One Click launcher using on-device camera & USB camera
 
-- [Experience application using One Click launcher]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-253/run-sample-apps-qdemo.html)
+- [Experience application using One Click launcher](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-263/iq9-run-sample-applications.html)
 - [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/example-applications.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
 
 #### Testing and Feedback  
-- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and provide your feedback.
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and provide your feedback.
 
 ## Python App Development
-### Task 9: Develop Application with Python API of Gstreamer
+### Task 5: Develop Application with Python API of Gstreamer
 
 #### Introduction to QIM SDK  
 - [Overview of QIM SDK](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-51/qmi-sdk-qsg-landing-page.html?vproduct=1601111740013072&version=1.6&facet=Intelligent_Multimedia_SDK.SDK.2.0)  
@@ -87,48 +87,48 @@ Try to get the latest open-source object detection model and utilize the AI Hub 
 - Use on target of host based development and push the file through adb and verify.  
 
 #### Testing and Feedback  
-- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and share your experience/feedback.
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and share your experience/feedback.
 
 
 ## Run All Sample Apps
-### Task 10: Explore existing sample Applications on IQ-9075 Evaluation Kit (EVK) (IQ-9075) – GST Sample Applications, and Python Sample Applications
+### Task 6: Explore existing sample Applications on IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform – GST Sample Applications, and Python Sample Applications
 
 - [Exploration Experience application ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-253/run-sample-apps-qdemo.html  ) 
 
 - [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/example-applications.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
 
 #### Testing and Feedback  
-- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and provide your feedback.
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and provide your feedback.
 
 
 ## IDE Documentation
-### Task 11: Experience the IDE and Execute the sample applications inside the IDE
+### Task 7: Experience the IDE and Execute the sample applications inside the IDE with QLI1.6(Yocto) & Ubuntu
 
 - [Exploration Sample apps using IDE]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-51/content-develop-your-first-application.html#develop-using-qualcomm-visual-studio-code-extension) 
 - [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/example-applications.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
 
 #### Testing and Feedback  
-- Test the IDE on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and provide your feedback.
+- Test the IDE on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform/Robotics RB3 Platform and provide your feedback.
 - [Exploration Experience application ](https://docs.qualcomm.com/bundle/publicresource/topics/80-79972-1/quick_start.html#panel-0-0-1 )
-### Task 11.1: Upgrade IQ9 GA1.5 using IDE
+### Task 7.1: Upgrade IQ9 GA1.5 using IDE
 
 #### Testing and Feedback  
-- Test the IDE on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and provide your feedback.
+- Test the IDE on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and provide your feedback.
 
 ## MM Tasks
-### Task 12.1: Video encode with GMSL/MIPI Camera using Gstreamer commands
+### Task 8.1: Video encode with GMSL/MIPI Camera using Gstreamer commands
 
 The goal is to setup the Qualcomm Reference hardware provided and use QLI documentation to achieve the task (Encoding video with data from camera stream).
 No documentation reference provided.Expect engineer to navigate to findout the instructions.
 
 Note:
-#### For IQ-9075 Evaluation Kit (EVK) (IQ-9075): <br>
+#### For IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform: <br>
 #### GMSL camera : <br>
-Supported. Please check GMSL camera is connected to IQ-9075 Evaluation Kit (EVK) (IQ-9075) device .<br>
+Supported. Please check GMSL camera is connected to IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform device .<br>
 #### MIPI camera:<br>
 Supported. Camera sensors are attached to device by default.<br>
 #### USB camera:<br>
-Supported. Please check USB camera connected on IQ-9075 Evaluation Kit (EVK) (IQ-9075) device.<br>
+Supported. Please check USB camera connected on IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform device.<br>
  
  
 #### For IQ9-EVK (QCS9075) please check:<br>
@@ -150,79 +150,100 @@ Not supported<br>
 Supported. Please check USB camera connected on Ride SX device<br>
 
 #### Testing and Feedback  
-- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and provide your feedback.
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and provide your feedback.
 
 
-### Task 12.2: Audio decode and encode using GStreamer application (IQ-9075 Evaluation Kit (EVK) (IQ-9075))
+### Task 8.2: Audio decode and encode using GStreamer application (IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform)
 
 The goal is to setup the Qualcomm Reference hardware provided and use QLI documentation to load the required pre requisites and do audio encode and decode at GST level.
 #### Reference
 https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/gst-audio-video-encode.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK 
 
 #### Testing and Feedback  
-- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and provide your feedback.
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and provide your feedback.
 
 
-### Task 12.3: Verify driver level playback and record
+### Task 8.3: Measure the KPI/ Concurrency for Camera while trying task 8.1
 
-The goal is to setup the Qualcomm Reference hardware provided and use QLI documentation to load the required pre requisites and do audio encode and decode at platform/HAL level.
+The goal is to setup Qualcomm Profiler and information on how to use use it to collect system-wide performance profiling metrics.
+
 #### References
-- [Qualcomm Linux Audio Guide - Addendum]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-16A/audio-addendum.html?vproduct=1601111740013072&version=1.5&facet=Audio)
+- [Qualcomm Profiler User Guide](https://docs.qualcomm.com/bundle/resource/topics/80-54323-2/getting-started.html?state=preview)
+- [Qualcomm Profiler CLI for Linux](https://docs.qualcomm.com/bundle/resource/topics/80-54323-3/getting-started.html)
 
 #### Testing and Feedback  
-- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and provide your feedback.
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and provide your feedback.
 
 
 ## Video Task
-### Task 13.1: Video playback using GST command
+### Task 9.1: Video playback using GST command
 
 The goal is to setup the Qualcomm Reference hardware provided and use QLI documentation to perform video playback using GST commands.
 No documentation reference provided.Expect engineeer to  navigate to findout the instructions.
 
 #### Testing and Feedback  
-- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and provide your feedback.
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and provide your feedback.
 
 
-### Task 13.2: Offline Video decode using V4l2 test app (Host PC Kernel >v6.6)
+### Task 9.2: Offline Video decode using V4l2 test app (Host PC Kernel >v6.6)
 
 The goal is to setup the Qualcomm Reference hardware provided and use QLI documentation to perform  offline decode using v4l2 apps.
 No documentation reference provided.Expect engineeer to  navigate to findout the instructions.
 
 #### Testing and Feedback  
-- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and provide your feedback.
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and provide your feedback.
 
+### Task 10.1: Implement OpenCV rotate application with FastCV
 
-### Task 14: Implement OpenCV rotate application with FastCV
-
-The goal is to setup the Qualcomm Reference hardware provided and use QLI documentation to perform  install pre-requisites needed to crete or compile any application like the 
+The goal is to setup the Qualcomm Reference hardware provided and use QLI documentation to perform  install pre-requisites needed to create or compile any application like the 
 rotate application using fastCV.
-No documentation reference provided.Expect engineeer to  navigate to findout the instructions.
+No documentation reference provided.Expect engineeer to navigate to findout the instructions.
+
+### Task 10.2: Measure the KPI/ Concurrency for Camera while trying task 8.1
+
+The goal is to setup Qualcomm Profiler and information on how to use use it to collect system-wide performance profiling metrics.
+
+#### References
+- [Qualcomm Profiler User Guide](https://docs.qualcomm.com/bundle/resource/topics/80-54323-2/getting-started.html?state=preview)
+- [Qualcomm Profiler CLI for Linux](https://docs.qualcomm.com/bundle/resource/topics/80-54323-3/getting-started.html)
 
 #### Testing and Feedback  
-- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and provide your feedback
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and provide your feedback.
 
-### Task 15: Graphics Task
-#### Task 15.1: Weston EGL client application commands
+#### Testing and Feedback  
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and provide your feedback
+
+### Task 11: Graphics Task
+#### Task 11.1: Weston EGL client application commands
 
 The goal is to setup the Qualcomm Reference hardware provided and use QLI documentation to test EGL client of Weston .
 No documentation reference provided. Expect engineer to  navigate to find out the instructions.
 
 #### Testing and Feedback  
-- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and provide your feedback
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and provide your feedback
 
 
-### Task 15.2: Compile and run GLES and Vulkan applications.
+### Task 11.2: Compile and run GLES and Vulkan applications.
 
 The goal is to setup the Qualcomm Reference hardware provided and use QLI documentation to perform GLES and Vulkan sample application.
 No documentation reference provided. Expect engineer to  navigate to find out the instructions.
 
 #### Testing and Feedback  
-- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and provide your feedback
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and provide your feedback
+### Task 11.3: Measure the KPI/ Concurrency for Camera while trying task 11.x
 
+The goal is to setup Qualcomm Profiler and information on how to use use it to collect system-wide performance profiling metrics.
+
+#### References
+- [Qualcomm Profiler User Guide](https://docs.qualcomm.com/bundle/resource/topics/80-54323-2/getting-started.html?state=preview)
+- [Qualcomm Profiler CLI for Linux](https://docs.qualcomm.com/bundle/resource/topics/80-54323-3/getting-started.html)
+
+#### Testing and Feedback  
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and provide your feedback.
 
 ## Upgrade Workflow
-### Task 16:Upgrade existing IQ-9075 Evaluation Kit (EVK) (IQ-9075)
-- Upgrade IQ-9075 Evaluation Kit (EVK) (IQ-9075) with older software to latest version 
+### Task 12:Upgrade existing IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform
+- Upgrade IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform with older software to latest version 
 - Use documentation to find out commands to find QLI  version on hardware.
 - Perform upgrade following documents.
 - Find out hardware variant ( core or vision kit ) 
