@@ -200,7 +200,7 @@ The goal is to setup the Qualcomm Reference hardware provided and use QLI docume
 rotate application using fastCV.
 No documentation reference provided.Expect engineeer to navigate to findout the instructions.
 
-### Task 10.2: Measure the KPI/ Concurrency for Camera while trying task 8.1
+### Task 10.2: Measure the KPI/ Concurrency for Camera while trying task 10.1
 
 The goal is to setup Qualcomm Profiler and information on how to use use it to collect system-wide performance profiling metrics.
 
