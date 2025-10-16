@@ -102,7 +102,7 @@ Try to get the latest open-source object detection model and utilize the AI Hub 
 
 
 ## IDE Documentation
-### Task 7: Experience the IDE and Execute the sample applications inside the IDE with QLI1.6(Yocto) & Ubuntu
+### Task 7: Experience the IDE and Execute the sample applications inside the IDE with QLI1.6 (Yocto) & Ubuntu
 
 - [Exploration Sample apps using IDE]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-51/content-develop-your-first-application.html#develop-using-qualcomm-visual-studio-code-extension) 
 - [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/example-applications.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
@@ -110,7 +110,8 @@ Try to get the latest open-source object detection model and utilize the AI Hub 
 #### Testing and Feedback  
 - Test the IDE on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform/Robotics RB3 Platform and provide your feedback.
 - [Exploration Experience application ](https://docs.qualcomm.com/bundle/publicresource/topics/80-79972-1/quick_start.html#panel-0-0-1 )
-### Task 7.1: Upgrade IQ9 GA1.5 using IDE
+### Task 7.1: Create your own application build it and deploy in device.
+### Task 7.2: Profile your models in AIHUB.
 
 #### Testing and Feedback  
 - Test the IDE on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and provide your feedback.
