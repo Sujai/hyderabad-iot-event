@@ -107,8 +107,8 @@ Try to get the latest open-source object detection model and utilize the AI Hub 
 
 - [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/example-applications.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
   
-#### QIM SDK on Ubuntu
-- [Create a sample application with the Qualcomm IM SDK](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-51/content-develop-your-first-application.html?vproduct=1601111740013072&version=1.6&facet=Intelligent_Multimedia_SDK.SDK.2.0&state=releasecandidate)
+#### QIM QSG on Ubuntu
+- [Explore and run sample applications](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-51/content-develop-your-first-application.html?vproduct=1601111740013072&version=1.6&facet=Intelligent_Multimedia_SDK.SDK.2.0&state=releasecandidate)
 
 #### Testing and Feedback  
 - Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and provide your feedback.
