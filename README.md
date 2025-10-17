@@ -168,7 +168,8 @@ Supported. Please check USB camera connected on Ride SX device<br>
 
 The goal is to setup the Qualcomm Reference hardware provided and use QLI documentation to load the required pre requisites and do audio encode and decode at GST level.
 #### Reference
-https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/gst-audio-video-encode.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK 
+- [Audio Video Encode](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-50/gst-audio-video-encode.html?vproduct=1601111740013072&version=1.6&facet=Intelligent_Multimedia_SDK.SDK.2.0)
+
 
 #### Testing and Feedback  
 - Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and provide your feedback.
@@ -177,6 +178,7 @@ https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/gst-audio-vid
 ### Task 8.3: Measure the KPI/ Concurrency for Camera while trying task 8.1
 
 The goal is to setup Qualcomm Profiler and information on how to use use it to collect system-wide performance profiling metrics.
+User must run some complex programs that expose the capabilties of the IQ9 processor and use Qualcomm Profiler to check the KPI.
 
 #### References
 - [Qualcomm Profiler User Guide](https://docs.qualcomm.com/bundle/resource/topics/80-54323-2/getting-started.html?state=preview)
@@ -184,7 +186,6 @@ The goal is to setup Qualcomm Profiler and information on how to use use it to c
 
 #### Testing and Feedback  
 - Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and provide your feedback.
-
 
 ## Video Task
 ### Task 9.1: Video playback using GST command
@@ -198,20 +199,20 @@ No documentation reference provided.Expect engineeer to  navigate to findout the
 
 ### Task 9.2: Offline Video decode using V4l2 test app (Host PC Kernel >v6.6)
 
-The goal is to setup the Qualcomm Reference hardware provided and use QLI documentation to perform  offline decode using v4l2 apps.
+The goal is to setup the Qualcomm Reference hardware provided and use Qualcom documentation to perform  offline decode using v4l2 apps.
 No documentation reference provided.Expect engineeer to  navigate to findout the instructions.
 
 #### Testing and Feedback  
 - Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and provide your feedback.
+- Test the application on Ubuntu server OS as well.
 
 ### Task 10.1: Implement OpenCV rotate application with FastCV
 
-The goal is to setup the Qualcomm Reference hardware provided and use QLI documentation to perform  install pre-requisites needed to create or compile any application like the 
+The goal is to setup the Qualcomm Reference hardware provided and use Qualcomm documentation to perform  install pre-requisites needed to create or compile any application like the 
 rotate application using fastCV.
 No documentation reference provided.Expect engineeer to navigate to findout the instructions.
 
 ### Task 10.2: Measure the KPI/ Concurrency for Camera while trying task 10.1
-
 The goal is to setup Qualcomm Profiler and information on how to use use it to collect system-wide performance profiling metrics.
 
 #### References
