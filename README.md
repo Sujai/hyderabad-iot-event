@@ -106,6 +106,9 @@ Try to get the latest open-source object detection model and utilize the AI Hub 
 - [Exploration Experience application ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-253/run-sample-apps-qdemo.html  ) 
 
 - [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/example-applications.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
+  
+#### QIM SDK on Ubuntu
+- [Create a sample application with the Qualcomm IM SDK](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-51/content-develop-your-first-application.html?vproduct=1601111740013072&version=1.6&facet=Intelligent_Multimedia_SDK.SDK.2.0&state=releasecandidate)
 
 #### Testing and Feedback  
 - Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and provide your feedback.
@@ -127,15 +130,16 @@ Try to get the latest open-source object detection model and utilize the AI Hub 
 - Test the IDE on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and provide your feedback.
 
 ## MM Tasks
-### Task 8.1: Video encode with GMSL/MIPI Camera using Gstreamer commands
+### Task 8.1: Video encode with RTSP/MIPI Camera using Gstreamer commands
 
 The goal is to setup the Qualcomm Reference hardware provided and use QLI documentation to achieve the task (Encoding video with data from camera stream).
-No documentation reference provided.Expect engineer to navigate to findout the instructions.
+- [Encoding video with data from camera stream](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-50/gst-camera-single-stream-example.html?vproduct=1601111740013072&version=1.6&facet=Intelligent_Multimedia_SDK.SDK.2.0&state=preview&versionId=73e1dcbd-dcd4-4288-8a0c-ee69f3c5fec3)
+
 
 Note:
 #### For IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform: <br>
-#### GMSL camera : <br>
-Supported. Please check GMSL camera is connected to IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform device .<br>
+#### RTSP camera : <br>
+Supported. Please check RTSP camera is connected to IQ-9075 Evaluation Kit (EVK) (IQ-9075) .<br>
 #### MIPI camera:<br>
 Supported. Camera sensors are attached to device by default.<br>
 #### USB camera:<br>
@@ -161,10 +165,10 @@ Not supported<br>
 Supported. Please check USB camera connected on Ride SX device<br>
 
 #### Testing and Feedback  
-- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and provide your feedback.
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) and provide your feedback.
 
 
-### Task 8.2: Audio decode and encode using GStreamer application (IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform)
+### Task 8.2: Audio decode and encode using GStreamer application (IQ-9075 Evaluation Kit (EVK) (IQ-9075))
 
 The goal is to setup the Qualcomm Reference hardware provided and use QLI documentation to load the required pre requisites and do audio encode and decode at GST level.
 #### Reference
@@ -194,7 +198,7 @@ The goal is to setup the Qualcomm Reference hardware provided and use QLI docume
 No documentation reference provided.Expect engineeer to  navigate to findout the instructions.
 
 #### Testing and Feedback  
-- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and provide your feedback.
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) provide your feedback.
 
 
 ### Task 9.2: Offline Video decode using V4l2 test app (Host PC Kernel >v6.6)
@@ -203,7 +207,7 @@ The goal is to setup the Qualcomm Reference hardware provided and use Qualcom do
 No documentation reference provided.Expect engineeer to  navigate to findout the instructions.
 
 #### Testing and Feedback  
-- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and provide your feedback.
+- Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075) provide your feedback.
 - Test the application on Ubuntu server OS as well.
 
 ### Task 10.1: Implement OpenCV rotate application with FastCV
@@ -254,8 +258,8 @@ The goal is to setup Qualcomm Profiler and information on how to use use it to c
 - Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and provide your feedback.
 
 ## Upgrade Workflow
-### Task 12:Upgrade existing IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform
-- Upgrade IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform with older software to latest version 
+### Task 12:Upgrade existing IQ-9075 Evaluation Kit (EVK) (IQ-9075)
+- Upgrade IQ-9075 Evaluation Kit (EVK) (IQ-9075) older software to latest version 
 - Use documentation to find out commands to find QLI  version on hardware.
 - Perform upgrade following documents.
 - Find out hardware variant ( core or vision kit ) 
