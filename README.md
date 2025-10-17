@@ -1,7 +1,7 @@
 # Hyderabad / IOT Workshop
 
 ## Developing Applications on the Qualcomm Linux Platform 
-A single day workshop for developers to build multimedia and AI applications. The goal is to Explore application development using Explore sample apps using QDemo and run sample AI/ML or Multimedia applications using Qualcomm Linux platform and capture feedback on the experience.
+A single day workshop for developers to build multimedia and AI applications. The goal is to Explore application development using Explore sample apps using QDemo and run sample AI/ML or Multimedia applications using Qualcomm Linux and Qualcomm Ubuntu platform and capture feedback on the experience.
 
 ## Scope 
 ### Overview 
@@ -14,7 +14,8 @@ A single day workshop for developers to build multimedia and AI applications. Th
 Links to important hardware and software tools to be used for the workshop.
 - [Overview of the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and its components](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-115/dev-kits.html?vproduct=1601111740013072&version=1.6)
 - [Qualcomm VSCode IDE]( https://docs.qualcomm.com/bundle/publicresource/topics/80-79972-1/overview.html )
-- [Qualcomm Device Cloud]( https://qdc.qualcomm.com/ )
+- [Ubuntu on Qualcomm® IoT Platforms]( https://docs.qualcomm.com/bundle/publicresource/topics/80-82645-20/landingpage.html?product=1601111740057201 )
+- [Ubuntu Server]( https://documentation.ubuntu.com/server/ )
 
 ### What is in the Box  
 - [Detailed explanation of the components in the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform]( https://docs.qualcomm.com/bundle/resource/topics/80-70018-263/getting_started.html#what-is-included)
@@ -78,17 +79,26 @@ Try to get the latest open-source object detection model and utilize the AI Hub 
 
 ## Python App Development
 ### Task 5: Develop Application with Python API of Gstreamer
-
 #### Introduction to QIM SDK  
-- [Overview of QIM SDK](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-51/qmi-sdk-qsg-landing-page.html?vproduct=1601111740013072&version=1.6&facet=Intelligent_Multimedia_SDK.SDK.2.0)  
+- [Overview of QIM SDK](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-51/qmi-sdk-qsg-landing-page.html?vproduct=1601111740013072&version=1.6&facet=Intelligent_Multimedia_SDK.SDK.2.0)
+- [Installing QIM SDK on QLI Yocto](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-51/qmi-sdk-qsg-landing-page.html?product=1601111740057201&facet=Intelligent_Multimedia_SDK.SDK.2.0#panel-0-UXVhbGNvbW0gTGludXg=)
 - [Python samples](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-50/python-sample-applications.html?vproduct=1601111740013072&version=1.6&facet=Intelligent_Multimedia_SDK.SDK.2.0) 
 
 #### Hands on Development  
-- Use on target of host based development and push the file through adb and verify.  
+- Use host based development and push the file through adb and verify.  
 
 #### Testing and Feedback  
 - Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and share your experience/feedback.
 
+#### QIM SDK on Ubuntu
+- [Installing QIM SDK on Ubuntu](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-51/qmi-sdk-qsg-landing-page.html?product=1601111740057201&facet=Intelligent_Multimedia_SDK.SDK.2.0#panel-0-VWJ1bnR1)  
+- [Python samples](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-50/python-sample-applications.html?vproduct=1601111740013072&version=1.6&facet=Intelligent_Multimedia_SDK.SDK.2.0) 
+
+#### Development on Ubuntu
+- Explore the ontarget development of QIM applications on IQ9 with Ubuntu OS.
+
+#### Testing and Feedback  
+- Test and compare the experience between Ubuntu and QLI (Yocto)
 
 ## Run All Sample Apps
 ### Task 6: Explore existing sample Applications on IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform – GST Sample Applications, and Python Sample Applications
