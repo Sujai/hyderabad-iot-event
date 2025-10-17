@@ -68,9 +68,8 @@ Try to get the latest open-source object detection model and utilize the AI Hub 
 
 #### References
 - [Overview of AI Developer workflow](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-15B/introduction.html?vproduct=1601111740013072&version=1.6)
-- [Explore AI Sample applications](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-15B/ai-ml-reference-apps.html?vproduct=1601111740013072&version=1.6)
-- [RB3 Ubuntu: AI developer workflow - Ubuntu on Qualcomm® IoT Platforms Documentation](https://docs.qualcomm.com/bundle/publicresource/topics/80-90441-15/customize-reference-app.html?product=1601111740057201&facet=AI%20developer%20workflow)
-- [IQ9 Ubuntu: AI developer workflow - Ubuntu on Qualcomm® IoT Platforms Documentation](https://docs.qualcomm.com/bundle/publicresource/topics/80-90441-15/customize-reference-app.html?product=1601111740057201&facet=AI%20developer%20workflow)
+- RB3 Ubuntu: https://docs.qualcomm.com/bundle/publicresource/topics/80-90441-15/qairt.html?product=1601111740057201&facet=AI%20developer%20workflow
+- IQ9 Ubuntu: https://docs.qualcomm.com/bundle/publicresource/topics/80-90441-15/qairt.html?product=1601111740057201&facet=AI%20developer%20workflow
 
 #### Testing and Feedback  
 
