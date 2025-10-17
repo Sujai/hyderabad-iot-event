@@ -40,6 +40,9 @@ The objective is to utilize existing models from the AI Hub for segmentation, de
 
 #### References
 - [Overview of AI Developer workflow](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-15B/introduction.html?vproduct=1601111740013072&version=1.6)
+- [RB3 Ubuntu: Ubuntu on Qualcomm IoT Platforms Landing Page](https://docs.qualcomm.com/bundle/publicresource/topics/80-90441-15/integrate-ai-hub-models.html?product=1601111740057201&facet=AI%20developer%20workflow)
+- [IQ9 Ubuntu: Ubuntu on Qualcomm IoT Platforms Landing Page](https://docs.qualcomm.com/bundle/publicresource/topics/80-90441-15/integrate-ai-hub-models.html?product=1601111740057201&facet=AI%20developer%20workflow)
+
   
 #### Testing and Feedback 
 - Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and share your experience/feedback in the excel.
@@ -51,6 +54,8 @@ Try to get the latest open-source object detection model and utilize the AI Hub 
 #### References
 - [Overview of AI Developer workflow](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-15B/introduction.html?vproduct=1601111740013072&version=1.6)
 - [Integrate AIHUB Models](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-15B/develop-your-own-application-im-sdk.html?vproduct=1601111740013072&version=1.6)
+- [RB3 Ubuntu: AI developer workflow - Ubuntu on Qualcomm® IoT Platforms Documentation](https://docs.qualcomm.com/bundle/publicresource/topics/80-90441-15/customize-reference-app.html?product=1601111740057201&facet=AI%20developer%20workflow)
+- [IQ9 Ubuntu: AI developer workflow - Ubuntu on Qualcomm® IoT Platforms Documentation](https://docs.qualcomm.com/bundle/publicresource/topics/80-90441-15/customize-reference-app.html?product=1601111740057201&facet=AI%20developer%20workflow)
   
 #### Testing and Feedback 
 - Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and share your experience/feedback in the excel.
@@ -64,15 +69,18 @@ Try to get the latest open-source object detection model and utilize the AI Hub 
 #### References
 - [Overview of AI Developer workflow](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-15B/introduction.html?vproduct=1601111740013072&version=1.6)
 - [Explore AI Sample applications](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-15B/ai-ml-reference-apps.html?vproduct=1601111740013072&version=1.6)
+- [RB3 Ubuntu: AI developer workflow - Ubuntu on Qualcomm® IoT Platforms Documentation](https://docs.qualcomm.com/bundle/publicresource/topics/80-90441-15/customize-reference-app.html?product=1601111740057201&facet=AI%20developer%20workflow)
+- [IQ9 Ubuntu: AI developer workflow - Ubuntu on Qualcomm® IoT Platforms Documentation](https://docs.qualcomm.com/bundle/publicresource/topics/80-90441-15/customize-reference-app.html?product=1601111740057201&facet=AI%20developer%20workflow)
 
 #### Testing and Feedback  
 
 - Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and share your experience/feedback in the excel.
 
-### Task 4: Experience One-click launcher and execute sample application from One Click launcher using on-device camera & USB camera
+### Task 4: Experience One-click launcher and execute sample application from One Click launcher (One click/QDEMO applicable for QLI) using on-device camera & USB camera
 
 - [Experience application using One Click launcher](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-263/iq9-run-sample-applications.html)
 - [Explore AI and Multimedia applications ](https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-50/example-applications.html?vproduct=1601111740013072&version=1.5&facet=Qualcomm%20Intelligent%20Multimedia%20SDK)
+
 
 #### Testing and Feedback  
 - Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and provide your feedback.
