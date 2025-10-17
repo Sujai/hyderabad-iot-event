@@ -34,7 +34,7 @@ Links to important hardware and software tools to be used for the workshop.
 ## AI Developer Workflow
 Dedicated development utilizing the Multimedia and AI SDKs on the Qualcomm Linux platform.
 
-### Task 1: Explore AI hub and integrate model from AI hub into existing Sample Application.
+### Task 1: Explore AI hub and integrate model from AI hub into existing Sample Application
 
 The objective is to utilize existing models from the AI Hub for segmentation, detection, classification, and super resolution, and to execute the corresponding applications with these models.
 
@@ -47,7 +47,7 @@ The objective is to utilize existing models from the AI Hub for segmentation, de
 #### Testing and Feedback 
 - Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and share your experience/feedback in the excel.
 
-### Task 2: Bring new model to AI hub (BYOM) and integrate model into existing Sample Applications (supported models in IMSDK)
+### Task 2: Bring new model to AI hub (BYOM) and integrate model into existing Sample Applications (supported models in IMSDK).  Export the yolov8 litert model and integrate same in the object detection application.
 
 Try to get the latest open-source object detection model and utilize the AI Hub ‘Bring Your Own Model’ feature to convert and optimize it for Qualcomm SoCs. Integrate the optimized model into the application and execute it, as described in the previous step.
 
