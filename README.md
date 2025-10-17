@@ -101,7 +101,7 @@ Try to get the latest open-source object detection model and utilize the AI Hub 
 - Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and provide your feedback.
 
 
-## IDE Documentation
+## Using the Qualcomm VSCode IDE for Application development
 ### Task 7: Experience the IDE and Execute the sample applications inside the IDE with QLI1.6 (Yocto) & Ubuntu
 
 - [Exploration Sample apps using IDE]( https://docs.qualcomm.com/bundle/publicresource/topics/80-70020-51/content-develop-your-first-application.html#develop-using-qualcomm-visual-studio-code-extension) 
