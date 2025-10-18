@@ -1,0 +1,1 @@
+nmcli dev wifi connect QLIEVENT_2.4G-2 password qlievent1@
