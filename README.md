@@ -179,7 +179,8 @@ Supported. Please check USB camera connected on Ride SX device<br>
 
 The goal is to setup the Qualcomm Reference hardware provided and use QLI documentation to load the required pre requisites and do audio encode and decode at GST level.
 #### Reference
-- [Audio Video Encode](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-50/gst-audio-video-encode.html?vproduct=1601111740013072&version=1.6&facet=Intelligent_Multimedia_SDK.SDK.2.0)
+- [Audio decode](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-50/gst-audio-decode-sample.html?vproduct=1601111740013072&version=1.6&facet=Intelligent_Multimedia_SDK.SDK.2.0)
+- [Audio Encode](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-50/gst-audio-encode-example-without-flac.html?vproduct=1601111740013072&version=1.6&facet=Intelligent_Multimedia_SDK.SDK.2.0)
 
 
 #### Testing and Feedback  
