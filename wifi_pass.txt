@@ -1,3 +1,6 @@
 nmcli dev wifi connect QLIEVENT_2.4G-2 password qlievent1@
 
+
 nmcli dev wifi connect QLIEVENT2 password qlievent1@
+
+https://oem-share.canonical.com/partners/carmel/share/ubuntu-24.04/ubuntu-24.04-x05/desktop/
