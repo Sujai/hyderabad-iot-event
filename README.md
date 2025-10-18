@@ -227,8 +227,10 @@ No documentation reference provided.Expect engineeer to navigate to findout the 
 The goal is to setup Qualcomm Profiler and information on how to use use it to collect system-wide performance profiling metrics.
 
 #### References
-- [Qualcomm Profiler User Guide](https://docs.qualcomm.com/bundle/resource/topics/80-54323-2/getting-started.html?state=preview)
+- [Performance Document](https://docs.qualcomm.com/bundle/publicresource/topics/80-70022-10/13-performance_tools.html?vproduct=1601111740013072&version=1.6&facet=Performance%20Subsystem#section-w52-xxv-fbc-sshewale-04-29-24-1459-5-46)
 - [Qualcomm Profiler CLI for Linux](https://docs.qualcomm.com/bundle/resource/topics/80-54323-3/getting-started.html)
+- [Qualcomm Profiler User Guide](https://docs.qualcomm.com/bundle/resource/topics/80-54323-2/getting-started.html?state=preview)
+
 
 #### Testing and Feedback  
 - Test the application on the IQ-9075 Evaluation Kit (EVK) (IQ-9075)/Robotics RB3 Platform and provide your feedback.
